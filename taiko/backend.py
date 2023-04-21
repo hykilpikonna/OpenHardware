@@ -8,7 +8,7 @@ import time
 import keyboard
 import serial.tools.list_ports
 
-TAIKO_KEYS = ['x', 'z']
+TAIKO_KEYS = ['f', 'd']
 
 
 if __name__ == '__main__':
