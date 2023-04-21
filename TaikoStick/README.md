@@ -8,13 +8,15 @@ A pair of drumsticks that can be used to play Taiko no Tatsujin on any surface.
 
 ### Materials Required / 材料
 
-* 2x Thick-enough drumsticks  
+* 2x Thick-enough drumsticks [$16]  
 (The one I used: [taobao link](https://item.taobao.com/item.htm?id=665108049486))
-* 2x Piezo sensors (压电/蜂鸣陶瓷片)
-* 2x 1MΩ resistors
-* 1x Arduino Nano  
+* 2x Piezo sensors (压电/蜂鸣陶瓷片) [$2]
+* 2x 1MΩ resistors [$0.3]
+* 1x Arduino Nano 328p [$3]  
 (or any other dev board, just change the platformio config)
 * Many wires
+
+Note: The prices above are in CAD, but I bought many of them from China (e.g. drumsticks). If you don't understand Chinese or is not used to international shopping from Taobao, these components be more expensive to buy locally.
 
 ### Tools Required / 工具
 
