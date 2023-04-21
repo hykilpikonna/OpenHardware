@@ -7,3 +7,4 @@
 ## Index / 索引
 
 * [Coyote-Pikachu](./Coyote-Pikachu/) 让某电击小盒子变成一只皮卡丘的外壳 ⚡️
+* [TaikoStick](./TaikoStick/) 一对可以在任何表面上打太鼓达人的鼓槌 🥁
