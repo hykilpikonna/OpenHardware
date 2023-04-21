@@ -39,27 +39,27 @@ void loop()
     {
         val pin = DRUMSTICK_PINS[i];
         val value = analogRead(pin) / 8;
+        val last = LAST_VALUES[i];
+        LAST_VALUES[i] = value;
 
         // If the value is different from the last value, update it
-        if (value != LAST_VALUES[i])
+        if (value != last)
         {
-            // If it's less than the threshold
-            if (value < threshold)
+            // If it's greater than the threshold
+            if (value > threshold)
             {
-                // If the last value was greater than the threshold, it means the drumstick was just hit
-                if (LAST_VALUES[i] > threshold)
+                send(";%d;%d", i, value);
+
+                // If the last value was less than the threshold, it means the drumstick was just hit
+                if (last < threshold)
                     send("Hit:+%d", i);
             }
             else
             {
-                send(";%d;%d", i, value);
-
-                // If the last value was less than the threshold, it means the drumstick was just released
-                if (LAST_VALUES[i] < threshold)
+                // If the last value was greater than the threshold, it means the drumstick was just released
+                if (last > threshold)
                     send("Hit:-%d", i);
             }
         }
-        
-        LAST_VALUES[i] = value;
     }
 }
