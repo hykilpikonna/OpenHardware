@@ -23,6 +23,14 @@ A pair of drumsticks that can be used to play Taiko no Tatsujin on any surface.
 
 ### Connections / 连接
 
+1. Glue piezo sensors to the drumstick
+2. Connect the ground of each sensor to the ground
+3. Connect the output of one sensor to A0 and another to A1. 
+4. Connect 1M resistors between ground and the sensor outputs, one for each sensor.
+
+> If you want to protect the ADC from high voltages that the sensor might generate, you can connect an extra 5.1v zener diode in reverse bias from ground to each sensor
+> so that voltages flowing to the ADC will be at most 5.1v.
+
 ![img.png](doc/img.png)
 
 ## 2. Run / 运行
