@@ -1,4 +1,4 @@
-# Taiko-stick / 太鼓槌
+# Taiko-stick / 电子太鼓槌
 
 A pair of drumsticks that can be used to play Taiko no Tatsujin on any surface.
 
@@ -41,3 +41,5 @@ I'm too lazy to write a HID device driver, so I'm using a python script to read 
 2. Install dependencies using `pip install -r requirements.txt`
 3. Run `python reader.py`
 4. Use `Ctrl+C` to exit.
+
+Note: If you're using osu-stable, you might want to change the key settings either in the python script or in the game. By default, the script uses F for don and D for ka.
