@@ -35,7 +35,7 @@ scan = 0x6B
 
 ![](docs/image_2023-11-25_13-13-23.png)
 
-3. 下载 Python, 安装 `pip install pyserial`，然后运行 `python receiver.py`，这样接上读卡器之后就可以自动转存卡片然后自动按下 Insert Card 按钮了
+3. 下载 Python, 安装 `pip install pyserial`，然后运行 `start.bat`，这样接上读卡器之后就可以自动转存卡片然后自动按下 Insert Card 按钮了
    
 ## FAQ / 常见问题:
 
