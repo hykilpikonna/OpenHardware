@@ -3,12 +3,10 @@ from pathlib import Path
 import time
 import serial
 import re
-from pynput.keyboard import Key, Controller
-
-keyboard = Controller()
+from vk import *
 
 # Configure your serial port and baud rate
-SERIAL_PORT = 'COMx'  # Replace 'COMx' with your serial port (e.g., 'COM3' on Windows or '/dev/ttyUSB0' on Linux)
+SERIAL_PORT = 'COM3'  # Replace 'COMx' with your serial port (e.g., 'COM3' on Windows or '/dev/ttyUSB0' on Linux)
 # SERIAL_PORT = '/dev/ttyACM0'
 BAUD_RATE = 115200
 PATH = Path('C:/MUGS/felica.txt')
@@ -46,10 +44,10 @@ def parse_uid(data):
             from playsound import playsound
             playsound(str(AUDIO_EFFECT))
         
-        # Press ENTER button
-        keyboard.press(Key.enter)
-        time.sleep(0.5)
-        keyboard.release(Key.enter)
+        # Press scan button
+        press_key()
+        time.sleep(2)
+        release_key()
         
         return uid
     
