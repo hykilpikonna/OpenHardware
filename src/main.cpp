@@ -11,8 +11,9 @@
 PN532_I2C pn532i2c(Wire);
 PN532 nfc(pn532i2c);
 
-uint8_t prevIDm[8];
-unsigned long prevTime;
+constexpr u8 UID_LENGTH = 8;
+u8 prevIDm[UID_LENGTH];
+u32 prevTime;
 
 void setup()
 {
@@ -52,58 +53,40 @@ void setup()
     memset(prevIDm, 0, 8);
 }
 
-void printUid(const uint8_t* uid, const uint8_t uidLength)
+void foundCard(const u8* uid, const u8 len, const char* cardType)
 {
-    USBSerial.print("UID Length: ");
-    USBSerial.print(uidLength, DEC);
-    USBSerial.println(" bytes");
+    // Check if the same card is present
+    if (memcmp(uid, prevIDm, UID_LENGTH) == 0 && millis() - prevTime < 3000)
+    {
+        delay(5);
+        return;
+    }
+
+    USBSerial.printf("\nFound a %s card!\n", cardType);
     USBSerial.print("UID Value: ");
-    for (u8 i = 0; i < uidLength; i++)
+    for (u8 i = 0; i < len; i++)
         USBSerial.print(uid[i], HEX);
     USBSerial.println("");
+
+    memcpy(prevIDm, uid, UID_LENGTH);
+    prevTime = millis();
 }
 
 void loop()
 {
-    u8 idm[8];
+    u8 idm[UID_LENGTH] = {0};
     u8 pmm[8];
     u16 systemCode;
 
     // Wait for an FeliCa type cards.
     // When one is found, some basic information such as IDm, PMm, and System Code are retrieved.
     USBSerial.print("F");
-    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode, 5) == 1)
-    {
-        if (memcmp(idm, prevIDm, 8) == 0 && millis() - prevTime < 3000)
-        {
-            delay(5);
-            return;
-        }
+    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode, 5))
+        foundCard(idm, UID_LENGTH, "FeliCa");
 
-        USBSerial.println("\nFound a Felica card!");
-        printUid(idm, 8);
-
-        memcpy(prevIDm, idm, 8);
-        prevTime = millis();
-        return;
-    }
-
-    u8 uidLength; // Length of the UID (4 or 7 bytes depending on ISO14443A card type)
-
+    // Wait for an ISO14443A type cards (MIFARE, etc.).  When one is found
+    u8 uidLength;
     USBSerial.print("M");
     if (nfc.readPassiveTargetID(PN532_MIFARE_ISO14443A, idm, &uidLength, 5))
-    {
-        // Check if the same card is present
-        if (memcmp(idm, prevIDm, uidLength) == 0 && millis() - prevTime < 3000)
-        {
-            delay(5);
-            return;
-        }
-
-        USBSerial.println("\nFound a MIFARE card!");
-        printUid(idm, uidLength);
-
-        memcpy(prevIDm, idm, uidLength);
-        prevTime = millis();
-    }
+        foundCard(idm, uidLength, "ISO14443A");
 }
