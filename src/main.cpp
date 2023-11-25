@@ -14,7 +14,7 @@ PN532 nfc(pn532i2c);
 uint8_t        _prevIDm[8];
 unsigned long  _prevTime;
 
-void setup(void)
+void setup()
 {
   delay(1000);
   Serial.begin(115200);
@@ -44,7 +44,16 @@ void setup(void)
   memset(_prevIDm, 0, 8);
 }
 
-void loop(void)
+void printUid(uint8_t* uid, uint8_t uidLength) {
+  Serial.print("UID Length: ");Serial.print(uidLength, DEC);Serial.println(" bytes");
+  Serial.print("UID Value: ");
+  for (uint8_t i = 0; i < uidLength; i++) {
+    Serial.print(uid[i], HEX);
+  }
+  Serial.println("");
+}
+
+void loop()
 {
   uint8_t ret;
   uint16_t systemCode = 0xFFFF;
@@ -73,7 +82,7 @@ void loop(void)
     _prevTime = millis();
     return;
   }
-  
+
   Serial.print("M");
   uint8_t uid[] = { 0, 0, 0, 0, 0, 0, 0 }; // Buffer to store the returned UID
   uint8_t uidLength;                        // Length of the UID (4 or 7 bytes depending on ISO14443A card type)
@@ -92,13 +101,4 @@ void loop(void)
     _prevTime = millis();
     return;
   }
-}
-
-void printUid(uint8_t* uid, uint8_t uidLength) {
-  Serial.print("UID Length: ");Serial.print(uidLength, DEC);Serial.println(" bytes");
-  Serial.print("UID Value: ");
-  for (uint8_t i = 0; i < uidLength; i++) {
-    Serial.print(uid[i], HEX);
-  }
-  Serial.println("");
 }
