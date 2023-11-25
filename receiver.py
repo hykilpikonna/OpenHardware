@@ -1,8 +1,8 @@
+import os
 from pathlib import Path
 import time
 import serial
 import re
-from playsound import playsound
 from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
@@ -38,7 +38,13 @@ def parse_uid(data):
         PATH.write_text(uid)
         
         # Play audio effect
-        playsound(str(AUDIO_EFFECT))
+        # If is Windows, use winsound
+        if os.name == 'nt':
+            import winsound
+            winsound.PlaySound(str(AUDIO_EFFECT), winsound.SND_FILENAME)
+        else:
+            from playsound import playsound
+            playsound(str(AUDIO_EFFECT))
         
         # Press ENTER button
         keyboard.press(Key.enter)
