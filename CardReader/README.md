@@ -36,7 +36,14 @@ scan = 0x6B
 ![](docs/image_2023-11-25_13-13-23.png)
 
 3. 下载 Python, 安装 `pip install pyserial`，然后运行 `python receiver.py`，这样接上读卡器之后就可以自动转存卡片然后自动按下 Insert Card 按钮了
+   
+## FAQ / 常见问题:
+
+**Q: 为什么不用红月的 PCB 自带的 [ESP32-CardReader](https://github.com/Sucareto/ESP32-CardReader) 固件？**
+
+A: 因为那个固件的目的是尽量还原原生街机的读卡器接口，所以只支持官方卡。而且切换 SEGA / Bemani 模式的时候需要开盖、按住按钮重启，非常麻烦。
 
 ## Dependencies / 依赖:
 
-* PN532 Library: https://github.com/Seeed-Studio/PN532/
+* PN532 Library: https://github.com/Seeed-Studio/PN532
+* FastLED: https://github.com/FastLED/FastLED
