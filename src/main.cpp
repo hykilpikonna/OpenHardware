@@ -24,7 +24,7 @@ void setup()
     USBSerial.println("Hello!");
 
     // Initialize I2C communication
-    // Wire.setPins(GPIO_NUM_4, GPIO_NUM_5);
+    Wire.setPins(GPIO_NUM_4, GPIO_NUM_5);
 
     // Find the PN532 NFC module
     nfc.begin();
@@ -67,11 +67,12 @@ void loop()
 {
     u8 idm[8];
     u8 pmm[8];
+    u16 systemCode;
 
     // Wait for an FeliCa type cards.
     // When one is found, some basic information such as IDm, PMm, and System Code are retrieved.
     USBSerial.print("F");
-    if (nfc.felica_Polling(0xFFFF, 0x01, idm, pmm, nullptr, 5) == 1)
+    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode, 5) == 1)
     {
         if (memcmp(idm, prevIDm, 8) == 0 && millis() - prevTime < 3000)
         {
