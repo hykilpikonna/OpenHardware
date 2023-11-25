@@ -13,7 +13,7 @@ BAUD_RATE = 115200
 PATH = Path('C:/MUGS/felica.txt')
 # PATH = Path('/tmp/felica.txt')
 
-AUDIO_EFFECT = Path(__file__).parent / 'Audio/tofu.wav'
+AUDIO_EFFECT = Path(__file__).parent / 'Audio/mixkit-gaming-lock-2848.wav'
 
 def parse_uid(data):
     """
