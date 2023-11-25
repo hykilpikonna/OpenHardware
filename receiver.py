@@ -4,6 +4,7 @@ import time
 import serial
 import re
 from vk import *
+import winsound
 
 # Configure your serial port and baud rate
 SERIAL_PORT = 'COM3'  # Replace 'COMx' with your serial port (e.g., 'COM3' on Windows or '/dev/ttyUSB0' on Linux)
@@ -36,18 +37,14 @@ def parse_uid(data):
         PATH.write_text(uid)
         
         # Play audio effect
-        # If is Windows, use winsound
-        if os.name == 'nt':
-            import winsound
-            winsound.PlaySound(str(AUDIO_EFFECT), winsound.SND_FILENAME)
-        else:
-            from playsound import playsound
-            playsound(str(AUDIO_EFFECT))
+        winsound.PlaySound(str(AUDIO_EFFECT), winsound.SND_FILENAME)
         
         # Press scan button
-        press_key()
-        time.sleep(2)
-        release_key()
+        for i in range(3):
+            press_key()
+            time.sleep(0.1)
+            release_key()
+            time.sleep(0.1)
         
         return uid
     
