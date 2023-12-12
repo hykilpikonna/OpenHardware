@@ -1,3 +1,5 @@
 __pycache__/
 .idea
 .pio
+._*
+.DS_Store
