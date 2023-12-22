@@ -1,3 +1,6 @@
 [submodule "CardReader/lib/FastLED"]
 	path = CardReader/lib/FastLED
 	url = https://github.com/FastLED/FastLED
+[submodule "Wactroller/Firmware/lib/FastLED"]
+	path = Wactroller/Firmware/lib/FastLED
+	url = https://github.com/FastLED/FastLED
