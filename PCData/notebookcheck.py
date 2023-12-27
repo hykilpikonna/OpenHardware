@@ -42,6 +42,10 @@ def crawl_gpu(name: str, url: str):
         if len(cols) == 0:
             continue
 
+        # Remove <sup> tags
+        for sup in row.findAll("sup"):
+            sup.decompose()
+
         # Map values to names
         values = [v.text.strip().replace("\u00a0", " ") for v in cols[1:]]
         gpu_list.append(dict(zip(names, values)))
