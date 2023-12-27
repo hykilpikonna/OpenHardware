@@ -27,7 +27,7 @@ def crawl_cpu_gpu(cpu: bool) -> pd.DataFrame:
 
     :param cpu: True if cpu, False if gpu
     """
-    file = Path("data/cpu.csv" if cpu else "data/gpu.csv")
+    file = Path("data/passmark/cpu.csv" if cpu else "data/passmark/gpu.csv")
 
     if file.exists():
         return pd.read_csv(file)
@@ -97,7 +97,7 @@ def crawl_id(id: str):
 
 
 def crawl_gpuinfo_batch():
-    gpu_info_f = Path("data/gpu_info.json")
+    gpu_info_f = Path("data/passmark/gpu_info.json")
     gpu_info = {} if not gpu_info_f.exists() else json.loads(gpu_info_f.read_text())
     left = [gpu for gpu in crawl_cpu_gpu(False)["id"] if gpu not in gpu_info]
 
