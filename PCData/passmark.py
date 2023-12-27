@@ -9,22 +9,24 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class CPU(NamedTuple):
-    id: int
+class Processor(NamedTuple):
+    id: str
     name: str
     passmark: int
 
 
-def crawl_cpu() -> pd.DataFrame:
+def crawl_cpu_gpu(cpu: bool) -> pd.DataFrame:
     """
-    Crawl cpu benchmark data
+    Crawl cpu/gpu benchmark data
+
+    :param cpu: True if cpu, False if gpu
     """
-    file = Path("data/cpu.csv")
+    file = Path("data/cpu.csv" if cpu else "data/gpu.csv")
 
     if file.exists():
         return pd.read_csv(file)
 
-    url = "https://www.cpubenchmark.net/cpu_list.php"
+    url = "https://www.cpubenchmark.net/cpu_list.php" if cpu else "https://www.videocardbenchmark.net/gpu_list.php"
     page = requests.get(url)
     bs = BeautifulSoup(page.content, "html.parser")
 
@@ -36,10 +38,10 @@ def crawl_cpu() -> pd.DataFrame:
         cols = row.findAll("td")
         if len(cols) == 0:
             continue
-        id = int(row["id"].replace("cpu", ""))
-        cpu = cols[0].text.strip()
+        id = row["id"]
+        name = cols[0].text.strip()
         passmark = int(cols[1].text.strip().replace(",", ""))
-        cpu_list.append(CPU(id=id, name=cpu, passmark=passmark))
+        cpu_list.append(Processor(id=id, name=name, passmark=passmark))
 
     file.parent.mkdir(parents=True, exist_ok=True)
     df = pd.DataFrame(cpu_list)
@@ -49,4 +51,5 @@ def crawl_cpu() -> pd.DataFrame:
 
 
 if __name__ == '__main__':
-    crawl_cpu()
+    crawl_cpu_gpu(True)
+    crawl_cpu_gpu(False)

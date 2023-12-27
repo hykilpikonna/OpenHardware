@@ -1,0 +1,2487 @@
+id,name,passmark
+gpu162,256MB DDR Radeon 9800 XT,37
+gpu2314,7900 MOD - Radeon HD 6520G,610
+gpu2390,7900 MOD - Radeon HD 6550D,892
+gpu4780,A10-8Q,7041
+gpu4956,A16-2Q,4582
+gpu3424,A6 Micro-6500T Quad-Core APU with RadeonR4,220
+gpu3355,ABIT Siluro T400,3
+gpu214,ALL-IN-WONDER 9000,4
+gpu217,ALL-IN-WONDER 9800,23
+gpu222,ALL-IN-WONDER RADEON 8500DV,5
+gpu228,All-in-Wonder X1800XL,30
+gpu229,All-in-Wonder X1900,127
+gpu230,ALL-IN-WONDER X800 GT,84
+gpu4918,AMD Ryzen Z1 Extreme,6563
+gpu4177,AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI,3
+gpu336,ASUS A7000,9
+gpu2539,ASUS AGP-V3800PRO v31.40H,4
+gpu346,ASUS EAH4870x2,496
+gpu3638,Asus GTX 650 FML II EC-EGPU,720
+gpu375,ASUS V9520-X V62.11,7
+gpu3941,B8DKMDAP,4557
+gpu2698,Barco MXRT 1450,205
+gpu3886,Barco MXRT 2600,900
+gpu3354,Barco MXRT 5400,1161
+gpu2526,Barco MXRT 5450,1079
+gpu2699,Barco MXRT 5500,2701
+gpu4158,Barco MXRT 5600,2465
+gpu2621,Barco MXRT 7100,180
+gpu2474,Barco MXRT 7400,900
+gpu3353,Barco MXRT 7500,3753
+gpu4014,Barco MXRT 7600,4943
+gpu3144,BASICDISPLAY,69
+gpu3967,Citrix Indirect Display Adapter,4446
+gpu648,CONNECT 3D RADEON X300,36
+gpu4528,Custom GPU 0405,2762
+gpu657,Dell 8100,2
+gpu658,Dell 8200,4
+gpu2426,Diamond X1300-PCIE 256MB,70
+gpu3742,EAH5450,134
+gpu4000,EIZO Quadro MED-XN51LP,5048
+gpu3883,Embedded Radeon E9173,1806
+gpu4577,Eng Sample: 100-000000261-50_Y,2859
+gpu3958,Extreme AX850 PRO,120
+gpu387,FireGL T2-128,30
+gpu388,FireGL V3100,52
+gpu389,FireGL V3200,84
+gpu391,FireGL V3300,70
+gpu392,FireGL V3350,68
+gpu393,FireGL V3400,103
+gpu394,FireGL V3600,179
+gpu396,FireGL V5100,92
+gpu397,FireGL V5200,114
+gpu398,FireGL V5600,341
+gpu399,FireGL V7100,71
+gpu400,FireGL V7200,116
+gpu401,FireGL V7300,128
+gpu402,FireGL V7350,110
+gpu403,FireGL V7600,615
+gpu404,FireGL V7700,660
+gpu405,FireGL V8600,838
+gpu406,FireGL V8650,550
+gpu407,FireGL X1,59
+gpu415,FireMV 2200 PCI,1
+gpu414,FireMV 2200 PCIe,36
+gpu416,FireMV 2250,45
+gpu417,FireMV 2260,117
+gpu418,FireMV 2400 PCIe,11
+gpu420,FireMV 2450,73
+gpu422,FirePro 2260,112
+gpu115,FirePro 2270,143
+gpu423,FirePro 2450,51
+gpu237,FirePro 2460,170
+gpu429,FirePro 3D V3700,178
+gpu430,FirePro 3D V3750,341
+gpu431,FirePro 3D V3800,472
+gpu433,FirePro 3D V4800,853
+gpu435,FirePro 3D V5700,546
+gpu436,FirePro 3D V5800,1231
+gpu437,FirePro 3D V7750,545
+gpu438,FirePro 3D V7800,1867
+gpu440,FirePro 3D V8700,1206
+gpu441,FirePro 3D V8750,1271
+gpu442,FirePro 3D V8800,2437
+gpu443,FirePro 3D V9800,2811
+gpu2268,FirePro M2000,423
+gpu238,FirePro M4000,1612
+gpu3360,FirePro M4000 Mobility Pro,1628
+gpu2194,FirePro M40003,1364
+gpu3016,Firepro M4100,1059
+gpu3224,FirePro M4150,928
+gpu3145,FirePro M4170,1119
+gpu2818,FirePro M5100,2102
+gpu3125,FirePro M5100 FireGL V,1839
+gpu233,FirePro M5950,1314
+gpu2231,FirePro M6000,1820
+gpu2437,FirePro M6000 Mobility Pro,1750
+gpu2657,FirePro M6100,2107
+gpu3695,FirePro M6100 FireGL V,2787
+gpu425,FirePro M7740,665
+gpu3444,FirePro R5000,2646
+gpu427,FirePro RG220,335
+gpu3330,FirePro S10000,4768
+gpu2804,FirePro S7000,4523
+gpu3604,FirePro S7150,2726
+gpu3209,FirePro S9000,5059
+gpu4287,FirePro S9050,4901
+gpu3518,FirePro V3800,320
+gpu240,FirePro V3900,649
+gpu241,FirePro V4900,984
+gpu3111,FirePro V5700,464
+gpu3427,FirePro V5800,1175
+gpu243,FirePro V5900,1269
+gpu2675,FirePro V7000,3161
+gpu3907,FirePro V7800,2028
+gpu245,FirePro V7900,2304
+gpu3105,FirePro V8700,1538
+gpu3344,FirePro V8800,2280
+gpu3423,FirePro V9800,2726
+gpu2940,FirePro W2100,886
+gpu3019,FirePro W4100,1539
+gpu3070,FirePro W4170M,1063
+gpu3491,Firepro W4190M,1170
+gpu3425,FirePro W4300,2834
+gpu2227,FirePro W5000,2969
+gpu3044,FirePro W5100,2982
+gpu3440,FirePro W5130M,1395
+gpu3470,Firepro W5170M,1744
+gpu2371,FirePro W600,1661
+gpu4341,FirePro W6150M,2358
+gpu2232,FirePro W7000,4260
+gpu2647,FirePro W7000 Adapter,4361
+gpu3130,FirePro W7100,5319
+gpu3412,FirePro W7170M,3161
+gpu2427,FirePro W8000,4095
+gpu2937,FirePro W8100,7279
+gpu2281,FirePro W9000,6138
+gpu3028,FirePro W9100,7927
+gpu3357,FireStream 9170,647
+gpu2652,FireStream 9250,1164
+gpu2960,FireStream 9270,1341
+gpu247,FireStream 9370,2528
+gpu699,GeCube RADEON 7000,8
+gpu1168,GeForce 205,126
+gpu1169,GeForce 210,107
+gpu4035,GeForce 240M GT,319
+gpu1170,GeForce 256,5
+gpu1171,GeForce 305M,150
+gpu1172,GeForce 310,119
+gpu102,GeForce 310M,110
+gpu1173,GeForce 315,158
+gpu1174,GeForce 315M,114
+gpu1175,GeForce 320M,209
+gpu1177,GeForce 405,120
+gpu1178,GeForce 410M,254
+gpu2604,GeForce 505,118
+gpu1179,GeForce 510,259
+gpu1180,GeForce 605,318
+gpu1181,GeForce 6100,27
+gpu1182,GeForce 6100 nForce 400,25
+gpu1183,GeForce 6100 nForce 405,29
+gpu1185,GeForce 6100 nForce 420,25
+gpu1186,GeForce 6100 nForce 430,23
+gpu2125,GeForce 610M,291
+gpu2361,GeForce 615,545
+gpu1187,GeForce 6150,21
+gpu1188,GeForce 6150 LE,33
+gpu1189,GeForce 6150SE,24
+gpu74,GeForce 6150SE nForce 430,30
+gpu1191,GeForce 6200,41
+gpu1192,GeForce 6200 A-LE,32
+gpu125,GeForce 6200 LE,29
+gpu1194,GeForce 6200 TurboCache,53
+gpu3063,GeForce 6200A,3
+gpu1195,GeForce 6200SE TurboCache,37
+gpu1197,GeForce 6500,38
+gpu1198,GeForce 6600,86
+gpu1199,GeForce 6600 GT,137
+gpu1201,GeForce 6600 LE,51
+gpu1203,GeForce 6610 XL,88
+gpu1204,GeForce 6700 XL,95
+gpu1205,GeForce 6800,112
+gpu1207,GeForce 6800 GS,188
+gpu1208,GeForce 6800 GS/XT,102
+gpu1210,GeForce 6800 GT,142
+gpu1213,GeForce 6800 LE,109
+gpu1214,GeForce 6800 Ultra,138
+gpu1215,GeForce 6800 XE,58
+gpu1216,GeForce 6800 XT,123
+gpu1217,GeForce 7000M,13
+gpu1218,GeForce 7000M / nForce 610M,12
+gpu1220,GeForce 7025 / nForce 630a,32
+gpu1221,GeForce 7050 / nForce 610i,25
+gpu1222,GeForce 7050 / nForce 620i,41
+gpu1223,GeForce 7050 / nForce 630i,37
+gpu1224,GeForce 7050 PV / nForce 630a,31
+gpu2781,GeForce 705M,455
+gpu1225,GeForce 7100 / nForce 620i,26
+gpu1226,GeForce 7100 / nForce 630i,41
+gpu1227,GeForce 7100 GS,48
+gpu2622,GeForce 710A,475
+gpu2399,GeForce 710M,463
+gpu1228,GeForce 7150 / nForce 630i,33
+gpu1229,GeForce 7150M / nForce 630M,18
+gpu1231,GeForce 7200 GS,23
+gpu3977,GeForce 720A,614
+gpu1232,GeForce 7300 GS,78
+gpu1233,GeForce 7300 GT,136
+gpu1235,GeForce 7300 LE,80
+gpu1236,GeForce 7300 SE,39
+gpu1238,GeForce 7300 SE/7200 GS,48
+gpu3306,GeForce 730A,771
+gpu1241,GeForce 7350 LE,74
+gpu39,GeForce 7500 LE,89
+gpu9,GeForce 7600 GS,157
+gpu1243,GeForce 7600 GT,217
+gpu1247,GeForce 7650 GS,134
+gpu3519,GeForce 770M,3245
+gpu1248,GeForce 7800 GS,177
+gpu1249,GeForce 7800 GT,244
+gpu1250,GeForce 7800 GTX,290
+gpu1251,GeForce 7900 GS,253
+gpu1252,GeForce 7900 GT,258
+gpu1253,GeForce 7900 GT/GTO,247
+gpu1254,GeForce 7900 GTX,387
+gpu1255,GeForce 7950 GT,344
+gpu1256,GeForce 7950 GX2,201
+gpu3389,GeForce 7950 Xtreme,287
+gpu3356,GeForce 800A,476
+gpu3015,GeForce 800M,457
+gpu1257,GeForce 8100 / nForce 720a,79
+gpu3099,GeForce 810A,622
+gpu3005,GeForce 810M,410
+gpu1258,GeForce 8200,155
+gpu1259,GeForce 8200M G,62
+gpu3210,GeForce 820A,555
+gpu2785,GeForce 820M,504
+gpu2971,GeForce 825M,783
+gpu1260,GeForce 8300,101
+gpu1261,GeForce 8300 GS,115
+gpu3094,GeForce 830A,1138
+gpu2982,GeForce 830M,1008
+gpu1262,GeForce 8400,81
+gpu73,GeForce 8400 GS,149
+gpu1264,GeForce 8400 SE,68
+gpu1265,GeForce 8400M G,58
+gpu1266,GeForce 8400M GS,112
+gpu1268,GeForce 8400M GT,66
+gpu3045,GeForce 840A,1179
+gpu2873,GeForce 840M,1081
+gpu3126,GeForce 845M,1506
+gpu1270,GeForce 8500 GT,123
+gpu1272,GeForce 8600 GS,91
+gpu64,GeForce 8600 GT,117
+gpu118,GeForce 8600 GTS,149
+gpu1274,GeForce 8600M GS,70
+gpu1275,GeForce 8600M GT,89
+gpu1276,GeForce 8700M GT,124
+gpu1277,GeForce 8800 GS,330
+gpu1279,GeForce 8800 GT,493
+gpu101,GeForce 8800 GTS,421
+gpu63,GeForce 8800 GTS 512,575
+gpu119,GeForce 8800 GTX,590
+gpu1281,GeForce 8800 Ultra,642
+gpu1284,GeForce 8800M GTS,382
+gpu1285,GeForce 8800M GTX,462
+gpu1286,GeForce 9100,81
+gpu1287,GeForce 9100M G,68
+gpu3285,GeForce 910M,591
+gpu1288,GeForce 9200,165
+gpu1289,GeForce 9200M GE,143
+gpu1290,GeForce 9200M GS,111
+gpu3565,GeForce 920A,849
+gpu3192,GeForce 920M,725
+gpu3520,GeForce 920MX,1083
+gpu1291,GeForce 9300,126
+gpu1292,GeForce 9300 / nForce 730i,128
+gpu1293,GeForce 9300 GE,76
+gpu1294,GeForce 9300 GS,102
+gpu3128,GeForce 9300 SE,81
+gpu1295,GeForce 9300GE,97
+gpu1296,GeForce 9300M G,84
+gpu1297,GeForce 9300M GS,87
+gpu3417,GeForce 930A,1309
+gpu3252,GeForce 930M,1013
+gpu3549,GeForce 930MX,1295
+gpu1298,GeForce 9400,98
+gpu11,GeForce 9400 GT,132
+gpu1299,GeForce 9400M,67
+gpu1300,GeForce 9400M G,67
+gpu3393,GeForce 940A,1106
+gpu3155,GeForce 940M,1122
+gpu3453,GeForce 940MX,1509
+gpu2466,GeForce 9450,104
+gpu4094,GeForce 945A,1852
+gpu3388,GeForce 945M,2107
+gpu78,GeForce 9500 GS,187
+gpu1304,GeForce 9500 GT,151
+gpu1305,GeForce 9500M,103
+gpu1306,GeForce 9500M G,121
+gpu1307,GeForce 9500M GS,102
+gpu1308,GeForce 9600 GS,281
+gpu1309,GeForce 9600 GSO,327
+gpu1310,GeForce 9600 GSO 512,329
+gpu95,GeForce 9600 GT,491
+gpu1313,GeForce 9600M GS,118
+gpu1314,GeForce 9600M GT,137
+gpu1315,GeForce 9600M GT / GeForce GT 220M,293
+gpu1316,GeForce 9650M GS,270
+gpu1317,GeForce 9650M GT,137
+gpu1318,GeForce 9700M GT,208
+gpu1319,GeForce 9700M GTS,278
+gpu60,GeForce 9800 GT,465
+gpu3260,GeForce 9800 GT 1024MB,134
+gpu1320,GeForce 9800 GTX,769
+gpu92,GeForce 9800 GTX+,506
+gpu1321,GeForce 9800 GTX/9800 GTX+,608
+gpu1323,GeForce 9800 GX2,797
+gpu2264,GeForce 9800 S,635
+gpu97,GeForce 9800M GS,554
+gpu1325,GeForce 9800M GT,381
+gpu1326,GeForce 9800M GTS,401
+gpu1327,GeForce 9800M GTX,454
+gpu3403,GeForce 999 GTX,83
+gpu1329,GeForce FX 5100,7
+gpu1330,GeForce FX 5200,7
+gpu1333,GeForce FX 5200 Ultra,12
+gpu1334,GeForce FX 5200LE,7
+gpu2655,GeForce FX 5200SE,11
+gpu1335,GeForce FX 5500,8
+gpu1336,GeForce FX 5600,12
+gpu1337,GeForce FX 5600 Ultra,17
+gpu1339,GeForce FX 5600XT,9
+gpu1340,GeForce FX 5700,40
+gpu1341,GeForce FX 5700 Ultra,34
+gpu1342,GeForce FX 5700LE,24
+gpu1343,GeForce FX 5700VE,33
+gpu1346,GeForce FX 5900,34
+gpu1347,GeForce FX 5900 Ultra,41
+gpu1348,GeForce FX 5900XT,40
+gpu1349,GeForce FX 5900ZT,32
+gpu1350,GeForce FX 5950 Ultra,59
+gpu1351,GeForce FX Go 5200,8
+gpu1353,GeForce FX Go 5600,17
+gpu1358,GeForce FX Go5300,12
+gpu1361,GeForce FX Go5650,16
+gpu1362,GeForce FX Go5700,51
+gpu23,GeForce G 103M,62
+gpu1364,GeForce G 105M,62
+gpu43,GeForce G100,175
+gpu1366,GeForce G102M,167
+gpu1367,GeForce G105M,107
+gpu1368,GeForce G200,136
+gpu1369,GeForce G205M,91
+gpu1370,GeForce G210,98
+gpu1371,GeForce G210M,115
+gpu1372,GeForce Go 6100,17
+gpu1373,GeForce Go 6150,19
+gpu1375,GeForce Go 6200,15
+gpu1377,GeForce Go 6400,24
+gpu1378,GeForce Go 6600,69
+gpu1379,GeForce Go 6600 TE/6200 TE,44
+gpu1381,GeForce Go 6800,106
+gpu1383,GeForce Go 6800 Ultra,137
+gpu126,GeForce Go 7200,45
+gpu59,GeForce Go 7300,52
+gpu1386,GeForce Go 7400,65
+gpu1387,GeForce Go 7600,127
+gpu1389,GeForce Go 7600 GT,210
+gpu1390,GeForce Go 7700,147
+gpu1391,GeForce Go 7800,114
+gpu1392,GeForce Go 7800 GTX,209
+gpu1393,GeForce Go 7900 GS,176
+gpu1396,GeForce Go 7900 GTX,270
+gpu1399,GeForce Go 7950 GTX,263
+gpu3065,GeForce GPU,1195
+gpu3757,GeForce GT 1030,2483
+gpu1402,GeForce GT 120,168
+gpu1403,GeForce GT 120 / 9500 GT,324
+gpu1404,GeForce GT 120M,152
+gpu1405,GeForce GT 130,381
+gpu1406,GeForce GT 130M,146
+gpu1407,GeForce GT 140,657
+gpu72,GeForce GT 220,214
+gpu1408,GeForce GT 220M,121
+gpu1409,GeForce GT 230,323
+gpu1410,GeForce GT 230M,203
+gpu61,GeForce GT 240,514
+gpu1411,GeForce GT 240M,203
+gpu1413,GeForce GT 320,464
+gpu1414,GeForce GT 320M,105
+gpu1415,GeForce GT 325M,169
+gpu1416,GeForce GT 330,400
+gpu108,GeForce GT 330M,210
+gpu1417,GeForce GT 335M,389
+gpu1418,GeForce GT 340,738
+gpu2423,GeForce GT 415,251
+gpu1419,GeForce GT 415M,286
+gpu1420,GeForce GT 420,426
+gpu1421,GeForce GT 420M,412
+gpu1422,GeForce GT 425M,523
+gpu53,GeForce GT 430,601
+gpu86,GeForce GT 435M,542
+gpu1423,GeForce GT 440,773
+gpu1424,GeForce GT 445M,811
+gpu1425,GeForce GT 520,306
+gpu70,GeForce GT 520M,280
+gpu2144,GeForce GT 520MX,282
+gpu89,GeForce GT 525M,458
+gpu1426,GeForce GT 530,675
+gpu27,GeForce GT 540M,483
+gpu112,GeForce GT 545,1101
+gpu1427,GeForce GT 550M,580
+gpu1428,GeForce GT 555M,664
+gpu33,GeForce GT 610,305
+gpu2877,GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT,368
+gpu1429,GeForce GT 620,373
+gpu1430,GeForce GT 620M,439
+gpu2563,GeForce GT 625,350
+gpu2414,GeForce GT 625M,476
+gpu1431,GeForce GT 630,681
+gpu77,GeForce GT 630M,541
+gpu2683,GeForce GT 635,834
+gpu2136,GeForce GT 635M,565
+gpu1432,GeForce GT 640,1180
+gpu2147,GeForce GT 640M,922
+gpu2135,GeForce GT 640M LE,680
+gpu2242,GeForce GT 645,2005
+gpu2388,GeForce GT 645M,924
+gpu122,GeForce GT 650M,1208
+gpu2952,GeForce GT 705,333
+gpu2910,GeForce GT 710,631
+gpu2744,GeForce GT 710M,444
+gpu2896,GeForce GT 720,610
+gpu2890,GeForce GT 720A,600
+gpu2529,GeForce GT 720M,463
+gpu2906,GeForce GT 730,832
+gpu2749,GeForce GT 730A,742
+gpu2417,GeForce GT 730M,816
+gpu2592,GeForce GT 735M,628
+gpu2883,GeForce GT 740,1491
+gpu2928,GeForce GT 740A,667
+gpu2461,GeForce GT 740M,791
+gpu2632,GeForce GT 745A,1228
+gpu2564,GeForce GT 745M,1096
+gpu2492,GeForce GT 750M,1319
+gpu2646,GeForce GT 755M,1664
+gpu3586,GeForce GT 820M,579
+gpu2591,GeForce GT625M,457
+gpu2986,GeForce GTS 150M,504
+gpu1435,GeForce GTS 160M,678
+gpu1436,GeForce GTS 240,577
+gpu29,GeForce GTS 250,603
+gpu1437,GeForce GTS 250M,569
+gpu1438,GeForce GTS 350M,407
+gpu1439,GeForce GTS 360M,651
+gpu1,GeForce GTS 450,1315
+gpu3596,GeForce GTX 1050,5052
+gpu4088,GeForce GTX 1050 (Mobile),4461
+gpu4603,GeForce GTX 1050 3GB,5150
+gpu3595,GeForce GTX 1050 Ti,6308
+gpu4089,GeForce GTX 1050 Ti (Mobile),5918
+gpu3922,GeForce GTX 1050 Ti with Max-Q Design,5380
+gpu3971,GeForce GTX 1050 with Max-Q Design,4037
+gpu3548,GeForce GTX 1060,10075
+gpu4086,GeForce GTX 1060 (Mobile),8160
+gpu3566,GeForce GTX 1060 3GB,9763
+gpu3923,GeForce GTX 1060 5GB,9036
+gpu3769,GeForce GTX 1060 with Max-Q Design,7889
+gpu3521,GeForce GTX 1070,13515
+gpu4087,GeForce GTX 1070 (Mobile),10465
+gpu3842,GeForce GTX 1070 Ti,14708
+gpu3779,GeForce GTX 1070 with Max-Q Design,10049
+gpu3502,GeForce GTX 1080,15509
+gpu3699,GeForce GTX 1080 Ti,18541
+gpu3784,GeForce GTX 1080 with Max-Q Design,11576
+gpu4571,GeForce GTX 1630,5014
+gpu4078,GeForce GTX 1650,7868
+gpu4090,GeForce GTX 1650 (Mobile),6968
+gpu4167,GeForce GTX 1650 SUPER,10121
+gpu4195,GeForce GTX 1650 Ti,7577
+gpu4209,GeForce GTX 1650 Ti with Max-Q Design,6402
+gpu4104,GeForce GTX 1650 with Max-Q Design,6140
+gpu4062,GeForce GTX 1660,11705
+gpu4159,GeForce GTX 1660 SUPER,12784
+gpu4045,GeForce GTX 1660 Ti,12954
+gpu4091,GeForce GTX 1660 Ti (Mobile),10209
+gpu4082,GeForce GTX 1660 Ti with Max-Q Design,8681
+gpu17,GeForce GTX 260,1229
+gpu83,GeForce GTX 260M,379
+gpu21,GeForce GTX 275,1430
+gpu66,GeForce GTX 280,1299
+gpu1443,GeForce GTX 280M,575
+gpu1444,GeForce GTX 285,1516
+gpu1445,GeForce GTX 285M,650
+gpu1446,GeForce GTX 295,1190
+gpu31,GeForce GTX 460,2253
+gpu123,GeForce GTX 460 SE,2011
+gpu1447,GeForce GTX 460 v2,1871
+gpu93,GeForce GTX 460M,1235
+gpu82,GeForce GTX 465,2678
+gpu55,GeForce GTX 470,3089
+gpu1448,GeForce GTX 470M,1953
+gpu100,GeForce GTX 480,4061
+gpu1449,GeForce GTX 480M,1617
+gpu1450,GeForce GTX 485M,2359
+gpu16,GeForce GTX 550 Ti,1540
+gpu1451,GeForce GTX 555,1571
+gpu71,GeForce GTX 560,2721
+gpu106,GeForce GTX 560 SE,1914
+gpu18,GeForce GTX 560 Ti,3037
+gpu1452,GeForce GTX 560M,1221
+gpu15,GeForce GTX 570,3933
+gpu1453,GeForce GTX 570M,1863
+gpu68,GeForce GTX 580,4547
+gpu1455,GeForce GTX 580M,2074
+gpu1457,GeForce GTX 590,3341
+gpu2513,GeForce GTX 645,1870
+gpu2155,GeForce GTX 650,1754
+gpu2177,GeForce GTX 650 Ti,2529
+gpu2479,GeForce GTX 650 Ti BOOST,3341
+gpu2152,GeForce GTX 660,3998
+gpu88,GeForce GTX 660 Ti,4397
+gpu1458,GeForce GTX 660M,1436
+gpu35,GeForce GTX 670,5320
+gpu1459,GeForce GTX 670M,1718
+gpu2296,GeForce GTX 670MX,1943
+gpu1460,GeForce GTX 675M,1924
+gpu2349,GeForce GTX 675MX,2744
+gpu41,GeForce GTX 680,5549
+gpu1461,GeForce GTX 680M,3215
+gpu3832,GeForce GTX 680M KY_Bullet Edition,3568
+gpu2356,GeForce GTX 680MX,4142
+gpu1462,GeForce GTX 690,5579
+gpu2843,GeForce GTX 745,2147
+gpu2825,GeForce GTX 750,3363
+gpu2815,GeForce GTX 750 Ti,3902
+gpu2561,GeForce GTX 760,4782
+gpu2801,GeForce GTX 760 Ti,5191
+gpu4108,GeForce GTX 760 Ti OEM,5427
+gpu3186,GeForce GTX 760A,1226
+gpu2597,GeForce GTX 760M,1709
+gpu2537,GeForce GTX 765M,1992
+gpu2531,GeForce GTX 770,5915
+gpu2534,GeForce GTX 770M,2771
+gpu2729,GeForce GTX 775M,3551
+gpu2525,GeForce GTX 780,8020
+gpu2717,GeForce GTX 780 Ti,9495
+gpu2536,GeForce GTX 780M,3878
+gpu3213,GeForce GTX 850A,1049
+gpu2859,GeForce GTX 850M,2517
+gpu2968,GeForce GTX 850M - MODDED,1091
+gpu2866,GeForce GTX 860M,3030
+gpu2833,GeForce GTX 870M,3448
+gpu2850,GeForce GTX 880M,3804
+gpu3295,GeForce GTX 950,5340
+gpu3334,GeForce GTX 950A,2598
+gpu3171,GeForce GTX 950M,2581
+gpu3114,GeForce GTX 960,6048
+gpu3404,GeForce GTX 960A,2410
+gpu3176,GeForce GTX 960M,3397
+gpu3113,GeForce GTX 965M,3744
+gpu2954,GeForce GTX 970,9647
+gpu2981,GeForce GTX 970M,5722
+gpu3965,GeForce GTX 970XM FORCE,6706
+gpu2953,GeForce GTX 980,11134
+gpu3218,GeForce GTX 980 Ti,13828
+gpu2976,GeForce GTX 980M,7341
+gpu2433,GeForce GTX Titan,8211
+gpu2842,GeForce GTX TITAN Black,9016
+gpu3162,GeForce GTX TITAN X,13059
+gpu2884,GeForce GTX TITAN Z,8986
+gpu3860,GeForce MX110,1453
+gpu3890,GeForce MX130,1864
+gpu3789,GeForce MX150,2277
+gpu4036,GeForce MX230,1838
+gpu4076,GeForce MX250,2438
+gpu4203,GeForce MX330,2461
+gpu4194,GeForce MX350,2808
+gpu4296,GeForce MX450,3729
+gpu4493,GeForce MX550,4610
+gpu4560,GeForce MX570,6020
+gpu4595,GeForce MX570 A,6177
+gpu1463,GeForce PCX 5300,6
+gpu1464,GeForce PCX 5750,34
+gpu1465,GeForce PCX 5900,34
+gpu4501,GeForce RTX 2050,7352
+gpu4037,GeForce RTX 2060,14125
+gpu4085,GeForce RTX 2060 (Mobile),11354
+gpu4602,GeForce RTX 2060 12GB,15904
+gpu4117,GeForce RTX 2060 SUPER,16581
+gpu4199,GeForce RTX 2060 with Max-Q Design,9787
+gpu4001,GeForce RTX 2070,16184
+gpu4083,GeForce RTX 2070 (Mobile),12354
+gpu4116,GeForce RTX 2070 SUPER,18255
+gpu4204,GeForce RTX 2070 Super with Max-Q Design,13929
+gpu4048,GeForce RTX 2070 with Max-Q Design,11891
+gpu3989,GeForce RTX 2080,18792
+gpu4084,GeForce RTX 2080 (Mobile),15107
+gpu4123,GeForce RTX 2080 SUPER,19602
+gpu4202,GeForce RTX 2080 Super with Max-Q Design,13808
+gpu3991,GeForce RTX 2080 Ti,21839
+gpu4041,GeForce RTX 2080 with Max-Q Design,13171
+gpu4495,GeForce RTX 3050,12958
+gpu4769,GeForce RTX 3050 4GB Laptop GPU,7041
+gpu4782,GeForce RTX 3050 6GB Laptop GPU,10703
+gpu4408,GeForce RTX 3050 Laptop GPU,9409
+gpu4569,GeForce RTX 3050 OEM,12126
+gpu4393,GeForce RTX 3050 Ti Laptop GPU,10181
+gpu4345,GeForce RTX 3060,17089
+gpu4342,GeForce RTX 3060 Laptop GPU,13413
+gpu4318,GeForce RTX 3060 Ti,20598
+gpu4283,GeForce RTX 3070,22460
+gpu4331,GeForce RTX 3070 Laptop GPU,15527
+gpu4413,GeForce RTX 3070 Ti,23757
+gpu4497,GeForce RTX 3070 Ti Laptop GPU,18250
+gpu4282,GeForce RTX 3080,25352
+gpu4601,GeForce RTX 3080 12GB,26714
+gpu4332,GeForce RTX 3080 Laptop GPU,16546
+gpu4409,GeForce RTX 3080 Ti,27326
+gpu4491,GeForce RTX 3080 Ti Laptop GPU,20208
+gpu4284,GeForce RTX 3090,26863
+gpu4524,GeForce RTX 3090 Ti,29875
+gpu4763,GeForce RTX 4050 Laptop GPU,14693
+gpu4850,GeForce RTX 4060,19573
+gpu4752,GeForce RTX 4060 Laptop GPU,17989
+gpu4827,GeForce RTX 4060 Ti,22554
+gpu4898,GeForce RTX 4060 Ti 16GB,22760
+gpu4795,GeForce RTX 4070,26888
+gpu4756,GeForce RTX 4070 Laptop GPU,19614
+gpu4699,GeForce RTX 4070 Ti,31744
+gpu4622,GeForce RTX 4080,34621
+gpu4736,GeForce RTX 4080 Laptop GPU,26229
+gpu4606,GeForce RTX 4090,38867
+gpu4737,GeForce RTX 4090 Laptop GPU,28534
+gpu1467,GeForce2 Go,4
+gpu1470,GeForce2 GTS/GeForce2 Pro,3
+gpu1471,GeForce2 Integrated GPU,4
+gpu1472,GeForce2 MX,2
+gpu1473,GeForce2 MX 100/200,3
+gpu1477,GeForce2 MX with DVI-D and TV-out,4
+gpu191,GeForce2 MX with TV Out,2
+gpu1479,GeForce2 MX/MX 400,3
+gpu1480,GeForce2 Ti,4
+gpu1481,GeForce2 Ultra,6
+gpu1482,GeForce3,4
+gpu1483,GeForce3 Ti 200,4
+gpu1485,GeForce3 Ti 500,2
+gpu713,GeForce4 420 Go,3
+gpu1486,GeForce4 420 Go 32M,5
+gpu1487,GeForce4 4200 Go,3
+gpu3154,GeForce4 440,4
+gpu1488,GeForce4 440 Go,3
+gpu1489,GeForce4 440 Go 64M,5
+gpu1490,GeForce4 448 Go,5
+gpu1492,GeForce4 MX 4000,4
+gpu1493,GeForce4 MX 420,4
+gpu1494,GeForce4 MX 440,4
+gpu1496,GeForce4 MX 440 with AGP8X,4
+gpu1497,GeForce4 MX 440SE,4
+gpu1499,GeForce4 MX 460,4
+gpu1500,GeForce4 MX Integrated GPU,6
+gpu1502,GeForce4 Ti 4200,5
+gpu1505,GeForce4 Ti 4400,7
+gpu1506,GeForce4 Ti 4600,5
+gpu1507,GeForce4 Ti 4800,5
+gpu1508,GeForce4 Ti 4800 SE,6
+gpu1509,GeForce9400M,105
+gpu2931,GF117,554
+gpu4327,GRID GTX P40-6,4340
+gpu2617,GRID K1,650
+gpu3384,GRID K120Q,293
+gpu2911,GRID K140Q,727
+gpu3458,GRID K160Q,628
+gpu3194,GRID K180Q,533
+gpu2616,GRID K2,2736
+gpu3140,GRID K220Q,912
+gpu2951,GRID K240Q,2541
+gpu3143,GRID K260Q,2949
+gpu3142,GRID K280Q,2839
+gpu2742,GRID K520,3516
+gpu3795,GRID M10-0Q,913
+gpu3766,GRID M10-1B,2309
+gpu3800,GRID M10-1Q,3351
+gpu4160,GRID M10-2B,2333
+gpu4197,GRID M10-2Q,2691
+gpu3964,GRID M10-4Q,2976
+gpu3934,GRID M10-8Q,2606
+gpu3527,GRID M6-0B,911
+gpu4064,GRID M6-1Q,2069
+gpu3867,GRID M6-8Q,3568
+gpu3792,GRID M60-0B,1838
+gpu3927,GRID M60-0Q,827
+gpu3511,GRID M60-1B,4456
+gpu3749,GRID M60-1Q,3694
+gpu3737,GRID M60-2Q,5203
+gpu3483,GRID M60-4Q,3831
+gpu4171,GRID M60-8A,5523
+gpu3716,GRID M60-8Q,3883
+gpu3966,GRID P100-16Q,5944
+gpu3968,GRID P100-1B,2223
+gpu4178,GRID P100-8Q,3841
+gpu3993,GRID P40-24Q,4727
+gpu3951,GRID P40-2B,9842
+gpu4026,GRID P40-2Q,4843
+gpu4079,GRID P40-3Q,681
+gpu4080,GRID P40-4Q,5364
+gpu4834,GRID P40-8Q,8967
+gpu3983,GRID P6-2Q,3925
+gpu3913,GRID P6-4Q,4429
+gpu4855,GRID RTX6000-1B,8473
+gpu4425,GRID RTX6000P-6Q,4777
+gpu4261,GRID T4-1Q,3742
+gpu4516,GRID T4-2B,2601
+gpu4370,GRID T4-2Q,3450
+gpu4340,GRID T4-4Q,3260
+gpu4196,GRID T4-8Q,4518
+gpu3936,GRID V100-8Q,16
+gpu4132,GRID V100D-8Q,4155
+gpu2495,GT 430,223
+gpu3480,IncrediblE HD,389
+gpu3655,IncrediblE HD 4000,517
+gpu4017,IncrediblE HD 4600,749
+gpu908,Intel - Express Chipset G41,56
+gpu909,Intel - Express Chipset Q45/Q43,57
+gpu3748,Intel 2nd Generation SandyBridge HD,185
+gpu3583,Intel 2nd Generation SandyBridge HD 3000,205
+gpu3730,Intel 4th Generation Haswell HD,419
+gpu915,Intel 82845G Controller,2
+gpu916,Intel 82845G/GL Controller,2
+gpu917,Intel 82845G/GL/GE/PE/GV Controller,2
+gpu764,Intel 82852/82855 GM/GME Controller,1
+gpu920,Intel 82865G Controller,4
+gpu765,Intel 82915G Express,5
+gpu4185,Intel 82915G/915GV/910GL,3
+gpu922,Intel 82915G/GV/910GL Advanced v3.5,2
+gpu923,Intel 82915G/GV/910GL Express,3
+gpu766,Intel 82945G Express,12
+gpu3510,Intel 82945G Express-Chipsatzfamilie,8
+gpu770,Intel 865 Embedded Controller,3
+gpu3185,"Intel 915G,910G Express",4
+gpu3523,Intel 915G/915GV/910GL Embedded Controller Functio,4
+gpu3594,Intel 945G Embedded Chipset Function 0,4
+gpu3750,Intel 946GZ Embedded Chipset,3
+gpu928,Intel 946GZ Express,2
+gpu4955,Intel Arc,4624
+gpu4879,Intel Arc A310,4722
+gpu4568,Intel Arc A380,4915
+gpu4940,Intel Arc A580,11676
+gpu4928,Intel Arc A730M,7865
+gpu4612,Intel Arc A750,9289
+gpu4605,Intel Arc A770,9735
+gpu4620,Intel Arc A770M,7459
+gpu4905,Intel Arc Pro A40/A50,5223
+gpu4911,Intel Arc Pro A60,9409
+gpu931,Intel B43 Express Chipset,109
+gpu3849,Intel Coffee Lake UHD,1158
+gpu933,Intel Extreme Controller,1
+gpu782,Intel G33/G31 Express,51
+gpu938,Intel G35 Express,3090
+gpu940,Intel G41 Express Chipset,105
+gpu943,Intel G41 Express-Chipsatz,57
+gpu944,Intel G45/G43 Express Chipset,105
+gpu946,Intel G45/G43/G41 Express Chipset,67
+gpu948,Intel G965 Express,222
+gpu950,Intel GMA 3150 Express,2
+gpu2846,Intel Haswell HD - GT1,123
+gpu2807,Intel Haswell HD - GT2,139
+gpu3264,Intel HD 2000,213
+gpu26,Intel HD 3000,255
+gpu2,Intel HD 4000,344
+gpu2643,Intel HD 4400,521
+gpu2451,Intel HD 4600,630
+gpu4145,Intel HD 500,298
+gpu2552,Intel HD 5000,576
+gpu4143,Intel HD 505,352
+gpu3347,Intel HD 510,626
+gpu3341,Intel HD 515,631
+gpu3255,Intel HD 520,870
+gpu2498,Intel HD 5200,830
+gpu3281,Intel HD 530,995
+gpu2921,Intel HD 5300,390
+gpu2908,Intel HD 5500,586
+gpu3160,Intel HD 5600,2263
+gpu3120,Intel HD 6000,858
+gpu3647,Intel HD 610,693
+gpu3593,Intel HD 615,724
+gpu3540,Intel HD 630,1107
+gpu37,Intel HD Family,458
+gpu3592,Intel HD Graphics 620,926
+gpu3249,Intel HD manual-15.28-1861,62
+gpu3764,Intel HD manual-gen9_2015-133271,165
+gpu3068,Intel HD Modded,112
+gpu962,Intel HD P3000,286
+gpu963,Intel HD P4000,516
+gpu2601,Intel HD P4600,604
+gpu2586,Intel HD P4600/P4700,635
+gpu3385,Intel HD P530,1153
+gpu3682,Intel HD P630,1184
+gpu3788,Intel Infoshock HD,193
+gpu2692,Intel Iris 5100,743
+gpu3366,Intel Iris 540,1248
+gpu3437,Intel Iris 550,1420
+gpu3164,Intel Iris 6100,913
+gpu3790,Intel Iris 650,1432
+gpu4120,Intel Iris Plus,1818
+gpu3696,Intel Iris Plus 640,1342
+gpu4162,Intel Iris Plus 645,1727
+gpu3718,Intel Iris Plus 650,1593
+gpu3961,Intel Iris Plus 655,1745
+gpu2562,Intel Iris Pro 5200,1190
+gpu3481,Intel Iris Pro 580,1980
+gpu3167,Intel Iris Pro 6100,925
+gpu3258,Intel Iris Pro Graphics 6200,1449
+gpu3436,Intel Iris Pro P580,2231
+gpu3542,Intel Iris Pro P6300,1625
+gpu4265,Intel Iris Xe,2690
+gpu4502,Intel Iris Xe MAX,1971
+gpu4740,Intel Iris Xe MAX 100,1927
+gpu3261,Intel Media Accelerator,32
+gpu953,Intel Media Accelerator 3150,2
+gpu954,Intel Media Accelerator 500,3
+gpu956,Intel Media Accelerator 600,6
+gpu957,Intel Media Accelerator HD,108
+gpu4063,Intel Poison Ivy,738
+gpu967,Intel Q33 Express,5
+gpu778,Intel Q35 Embedded,8
+gpu968,Intel Q35 Express,88
+gpu971,Intel Q45/Q43 Express Chipset,207
+gpu973,Intel Q45/Q43 Express-Chipsatz,57
+gpu974,Intel Q965/Q963 Express,186
+gpu3135,Intel Skylake HD DT GT2,576
+gpu3950,Intel UHD Graphics,1476
+gpu3876,Intel UHD Graphics 600,324
+gpu3861,Intel UHD Graphics 605,369
+gpu3910,Intel UHD Graphics 610,718
+gpu4006,Intel UHD Graphics 615,751
+gpu4051,Intel UHD Graphics 617,892
+gpu3805,Intel UHD Graphics 620,1042
+gpu3826,Intel UHD Graphics 630,1247
+gpu4505,Intel UHD Graphics 710,1077
+gpu4379,Intel UHD Graphics 730,1626
+gpu4378,Intel UHD Graphics 750,1742
+gpu4473,Intel UHD Graphics 770,1856
+gpu3924,Intel UHD Graphics P630,2241
+gpu4410,Intel UHD Graphics P750,1726
+gpu3301,Intel US15 Embedded Media and Controller,7
+gpu1515,ION,84
+gpu1516,ION LE,97
+gpu248,M860G with Mobility Radeon 4100,75
+gpu249,M880G with Mobility Radeon HD 4200,92
+gpu250,M880G with Mobility Radeon HD 4225,71
+gpu121,M880G with Mobility Radeon HD 4250,104
+gpu3677,Master X3100 Driver,10
+gpu3187,Matrox C420 LP PCIe x16,597
+gpu3054,Matrox C680 PCIe x16,1903
+gpu3579,Matrox C900 PCIe x16,1812
+gpu2674,Matrox G200e WDDM 1.2,59
+gpu3887,Matrox G200e WDDM 2.0,100
+gpu2705,Matrox G200eh,40
+gpu2942,Matrox G200eh WDDM 1.2,51
+gpu3723,Matrox G200eh WDDM 2.0,46
+gpu2673,Matrox G200eR,36
+gpu2919,Matrox G200eR WDDM 1.2,45
+gpu3692,Matrox G200eR WDDM 2.0,67
+gpu998,Matrox G200eW,39
+gpu2823,Matrox G200eW WDDM 1.2,50
+gpu3847,Matrox G200eW3 WDDM 2.0,94
+gpu4882,Matrox LUMA A310,3690
+gpu4881,Matrox LUMA A310F,3873
+gpu1001,Matrox M9120 PCIe x16,19
+gpu1003,Matrox M9120 Plus LP PCIe x16,25
+gpu1004,Matrox M9125 PCIe x16,25
+gpu1005,Matrox M9128 LP PCIe x16,31
+gpu1006,Matrox M9138 LP PCIe x16,42
+gpu1007,Matrox M9140 LP PCIe x16,23
+gpu1008,Matrox M9148 LP PCIe x16,40
+gpu1032,Matrox Millennium P650 PCIe 128,5
+gpu1036,Matrox Millennium P690 PCIe x16,366
+gpu1038,Matrox Millennium P690 Plus LP PCIe x16,6
+gpu1040,Matrox Parhelia 128MB,3
+gpu1041,Matrox Parhelia 256MB,9
+gpu1042,Matrox Parhelia APVe,5
+gpu1055,MEDION RADEON 9800 XXL,71
+gpu1057,MEDION RADEON X740XL,94
+gpu4118,MIRRORV3,1080
+gpu1068,Mobile Intel - famiglia Express Chipset 45,38
+gpu2477,Mobile Intel 4 Express-Chipsatzfamilie,44
+gpu1060,Mobile Intel 45 Express,43
+gpu1072,Mobile Intel 45 Express-Chipsatzfamilie,117
+gpu2393,Mobile Intel 915GM/GMS/910GML Express,1
+gpu1062,Mobile Intel 945 Express,1
+gpu1083,Mobile Intel 945GM Express,5
+gpu1085,Mobile Intel 945GM/GU Express,5
+gpu1066,Mobile Intel 965 Express,49
+gpu3509,Mobile Intel 965 Express - BR-0907-0461 v1839,8
+gpu2916,Mobile Intel 965 Express-Chipsatzfamilie,24
+gpu1088,Mobile Intel HD,235
+gpu2460,Mobile Intel serie 4 Express,44
+gpu3948,Mobile Intel965 Express,17
+gpu446,MOBILITY FIREGL 7800,4
+gpu448,MOBILITY FIREGL T2,40
+gpu449,MOBILITY FIREGL T2/T2e,33
+gpu451,MOBILITY FireGL V3200,62
+gpu452,MOBILITY FireGL V5000,81
+gpu99,MOBILITY FireGL V5200,44
+gpu453,MOBILITY FireGL V5250,27
+gpu455,Mobility FireGL V5725,219
+gpu459,MOBILITY IGP 9000/9100,10
+gpu462,Mobility Radeon 4100,81
+gpu463,MOBILITY RADEON 7000 IGP,6
+gpu464,MOBILITY RADEON 7500,3
+gpu465,MOBILITY RADEON 9000,3
+gpu466,MOBILITY RADEON 9000 IGP,7
+gpu467,MOBILITY RADEON 9000/9100 IGP,5
+gpu468,MOBILITY RADEON 9100 IGP,2
+gpu469,MOBILITY RADEON 9200,3
+gpu2325,MOBILITY RADEON 9550,30
+gpu471,MOBILITY RADEON 9600,36
+gpu472,MOBILITY RADEON 9600 PRO TURBO,24
+gpu473,MOBILITY RADEON 9600/9700,39
+gpu474,MOBILITY RADEON 9700,27
+gpu476,MOBILITY RADEON 9800,46
+gpu75,Mobility Radeon HD 2300,50
+gpu147,Mobility Radeon HD 2400,89
+gpu478,Mobility Radeon HD 2400 XT,102
+gpu65,Mobility Radeon HD 2600,167
+gpu479,Mobility Radeon HD 2600 XT,191
+gpu2893,Mobility Radeon HD 3400 Serisi,111
+gpu482,Mobility Radeon HD 3410,62
+gpu483,Mobility Radeon HD 3430,98
+gpu484,Mobility Radeon HD 3450,91
+gpu485,Mobility Radeon HD 3470,93
+gpu486,Mobility Radeon HD 3470 Hybrid X2,93
+gpu487,Mobility Radeon HD 3650,129
+gpu488,Mobility Radeon HD 3670,232
+gpu489,Mobility Radeon HD 3850,365
+gpu490,Mobility Radeon HD 3870,547
+gpu491,Mobility Radeon HD 3870 X2,477
+gpu493,Mobility Radeon HD 4200,90
+gpu494,Mobility Radeon HD 4225,66
+gpu495,Mobility Radeon HD 4250,98
+gpu496,Mobility Radeon HD 4270,92
+gpu2753,Mobility Radeon HD 4300 Serisi,73
+gpu497,Mobility Radeon HD 4330,135
+gpu498,Mobility Radeon HD 4350,148
+gpu502,Mobility Radeon HD 4550,191
+gpu503,Mobility Radeon HD 4570,139
+gpu504,Mobility Radeon HD 4650,401
+gpu505,Mobility Radeon HD 4670,463
+gpu506,Mobility Radeon HD 4830,511
+gpu507,Mobility Radeon HD 4850,866
+gpu148,Mobility Radeon HD 4870,719
+gpu2153,Mobility Radeon HD 5000,773
+gpu2516,Mobility Radeon HD 5000 Serisi,478
+gpu511,Mobility Radeon HD 5165,284
+gpu512,Mobility Radeon HD 530v,174
+gpu514,Mobility Radeon HD 540v,188
+gpu515,Mobility Radeon HD 5430,181
+gpu516,Mobility Radeon HD 5450,214
+gpu517,Mobility Radeon HD 545v,199
+gpu58,Mobility Radeon HD 5470,236
+gpu518,Mobility Radeon HD 550v,266
+gpu519,Mobility Radeon HD 5570,538
+gpu520,Mobility Radeon HD 560v,318
+gpu521,Mobility Radeon HD 5650,449
+gpu522,Mobility Radeon HD 565v,353
+gpu149,Mobility Radeon HD 5730,499
+gpu525,Mobility Radeon HD 5850,763
+gpu526,Mobility Radeon HD 5870,1093
+gpu2644,Mobility Radeon HD serie 4200,96
+gpu531,Mobility Radeon X1300,39
+gpu532,Mobility Radeon X1350,39
+gpu533,Mobility Radeon X1400,42
+gpu535,Mobility Radeon X1450,33
+gpu536,Mobility Radeon X1600,92
+gpu537,Mobility Radeon X1700,104
+gpu538,MOBILITY RADEON X1800,130
+gpu539,Mobility Radeon X1900,134
+gpu111,Mobility Radeon X2300,48
+gpu1097,Mobility Radeon X2300 HD,48
+gpu540,Mobility Radeon X2500,81
+gpu542,MOBILITY RADEON X300,33
+gpu543,MOBILITY RADEON X600,50
+gpu544,MOBILITY RADEON X600 SE,49
+gpu545,MOBILITY RADEON X700,66
+gpu546,MOBILITY RADEON X700 XL,59
+gpu548,MOBILITY RADEON XPRESS 200,27
+gpu2488,Mobility Radeon. HD 5470,215
+gpu551,MOBILITY/RADEON 9000,4
+gpu2470,MONSTER GeForce GTX 675M,2637
+gpu3640,MxGPU,1826
+gpu3199,N16P-GX,1204
+gpu3928,N18E-Q1,2525
+gpu1530,nForce 750a SLI,83
+gpu1531,nForce 760i SLI,140
+gpu1532,nForce 780a SLI,92
+gpu1533,nForce 980a/780a SLI,81
+gpu1536,NV44,15
+gpu4632,NVIDIA A10,22064
+gpu4521,NVIDIA A10-4Q,3424
+gpu4546,NVIDIA A10G,18292
+gpu4551,NVIDIA A40,13370
+gpu4655,NVIDIA A40-8Q,4220
+gpu1150,NVIDIA GeForce3 Ti200,5
+gpu3554,NVIDIA TITAN X,13659
+gpu3728,NVIDIA TITAN Xp,18644
+gpu1537,NVS 2100M,139
+gpu1538,NVS 300,121
+gpu2195,NVS 310,249
+gpu1539,NVS 3100M,114
+gpu2808,NVS 315,299
+gpu117,NVS 4200M,270
+gpu2228,NVS 510,704
+gpu1540,NVS 5100M,188
+gpu2158,NVS 5200M,514
+gpu1541,NVS 5400M,631
+gpu3428,NVS 810,1161
+gpu3291,OPAL XT/GL,1053
+gpu4206,P104-100,3807
+gpu4212,P106-090,2342
+gpu4044,P106-100,6324
+gpu4810,PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C3 Ryzen,1653
+gpu4791,PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C7 Ryzen,1642
+gpu3608,PHDGD Ivy 4,374
+gpu4184,PHDGD Ivy 5,445
+gpu3844,PHDGD Quantic C3,116
+gpu3856,PHDGD Sapphire GR for Mobile Intel 965,25
+gpu3136,PHDGD Solo 1.2.0 x86,11
+gpu3515,PHDGD Solo 2 x64,20
+gpu3625,Q12U-1,5164
+gpu87,Quadro 1000M,571
+gpu2398,Quadro 1100M,755
+gpu1543,Quadro 2000,946
+gpu1544,Quadro 2000 D,1239
+gpu1545,Quadro 2000D,974
+gpu49,Quadro 2000M,783
+gpu2397,Quadro 2100M,1100
+gpu1546,Quadro 280 NVS PCIe,5
+gpu1547,Quadro 3000M,1018
+gpu1548,Quadro 400,148
+gpu1549,Quadro 4000,1478
+gpu1550,Quadro 4000M,1323
+gpu2291,Quadro 410,441
+gpu1551,Quadro 5000,1923
+gpu1552,Quadro 5000M,2059
+gpu2518,Quadro 500M,570
+gpu1553,Quadro 5010M,1771
+gpu91,Quadro 600,537
+gpu1554,Quadro 6000,2705
+gpu1555,Quadro 7000,3505
+gpu1556,Quadro CX,947
+gpu1557,Quadro FX 1000,34
+gpu1558,Quadro FX 1100,35
+gpu1559,Quadro FX 1300,34
+gpu1560,Quadro FX 1400,124
+gpu1561,Quadro FX 1500,197
+gpu1562,Quadro FX 1500M,171
+gpu1563,Quadro FX 1600M,131
+gpu1564,Quadro FX 1700,139
+gpu1565,Quadro FX 1700M,172
+gpu1566,Quadro FX 1800,399
+gpu1567,Quadro FX 1800M,466
+gpu1568,Quadro FX 2000,18
+gpu1569,Quadro FX 2500M,217
+gpu2854,Quadro FX 2700,543
+gpu1570,Quadro FX 2700M,376
+gpu1571,Quadro FX 2800M,420
+gpu1572,Quadro FX 3000,69
+gpu4,Quadro FX 3400/4400,104
+gpu1574,Quadro FX 3450,148
+gpu1575,Quadro FX 3450/4000 SDI,179
+gpu1576,Quadro FX 350,85
+gpu1577,Quadro FX 3500,259
+gpu1578,Quadro FX 3500M,306
+gpu1579,Quadro FX 350M,44
+gpu1580,Quadro FX 3600M,466
+gpu1581,Quadro FX 360M,86
+gpu1582,Quadro FX 370,83
+gpu1583,Quadro FX 370 Low Profile,102
+gpu1584,Quadro FX 370 LP,108
+gpu1585,Quadro FX 3700,380
+gpu1586,Quadro FX 3700M,456
+gpu1587,Quadro FX 370M,93
+gpu1588,Quadro FX 380,162
+gpu1589,Quadro FX 380 LP,126
+gpu1590,Quadro FX 3800,799
+gpu1591,Quadro FX 3800M,605
+gpu1592,Quadro FX 380M,120
+gpu1593,Quadro FX 4000,101
+gpu1594,Quadro FX 4500,226
+gpu1595,Quadro FX 4500 X2,236
+gpu1596,Quadro FX 4600,430
+gpu2857,Quadro FX 4700 X2,676
+gpu32,Quadro FX 4800,991
+gpu1599,Quadro FX 500/600 PCI,14
+gpu1600,Quadro FX 500/FX 600,7
+gpu1601,Quadro FX 540,80
+gpu1602,Quadro FX 550,63
+gpu1603,Quadro FX 5500,242
+gpu1604,Quadro FX 560,113
+gpu1605,Quadro FX 5600,525
+gpu1606,Quadro FX 570,232
+gpu1607,Quadro FX 570M,104
+gpu1608,Quadro FX 580,156
+gpu1609,Quadro FX 5800,1223
+gpu1611,Quadro FX 770M,170
+gpu1612,Quadro FX 880M,215
+gpu1614,Quadro FX Go1400,101
+gpu3721,Quadro GP100,15607
+gpu3919,Quadro GV100,20021
+gpu1616,Quadro K1000M,783
+gpu2623,Quadro K1100M,1085
+gpu3193,Quadro K1200,2908
+gpu2446,Quadro K2000,1571
+gpu2497,Quadro K2000D,1577
+gpu1617,Quadro K2000M,1016
+gpu2665,Quadro K2100M,1362
+gpu2947,Quadro K2200,3548
+gpu3175,Quadro K2200M,3440
+gpu2213,Quadro K3000M,1645
+gpu2684,Quadro K3100M,2270
+gpu2272,Quadro K4000,2718
+gpu2159,Quadro K4000M,1908
+gpu2736,Quadro K4100M,2643
+gpu2992,Quadro K420,760
+gpu2944,Quadro K4200,4326
+gpu2258,Quadro K5000,3987
+gpu1618,Quadro K5000M,2779
+gpu2798,Quadro K5100M,3188
+gpu2767,Quadro K510M,610
+gpu2941,Quadro K5200,6020
+gpu2449,Quadro K600,745
+gpu2666,Quadro K6000,8059
+gpu2703,Quadro K610M,719
+gpu2950,Quadro K620,2240
+gpu3148,Quadro K620M,1162
+gpu3349,Quadro M1000M,2889
+gpu3651,Quadro M1200,3270
+gpu3512,Quadro M2000,3985
+gpu3373,Quadro M2000M,3451
+gpu3732,Quadro M2200,4295
+gpu3394,Quadro M3000M,5511
+gpu3325,Quadro M4000,6668
+gpu3297,Quadro M4000M,6266
+gpu3369,Quadro M5000,9380
+gpu3408,Quadro M5000M,7037
+gpu3449,Quadro M500M,1173
+gpu3754,Quadro M520,1870
+gpu3459,Quadro M5500,7915
+gpu3106,Quadro M6000,11704
+gpu3544,Quadro M6000 24GB,12008
+gpu3397,Quadro M600M,2118
+gpu3658,Quadro M620,2832
+gpu1620,Quadro NVS 110M,47
+gpu1621,Quadro NVS 120M,46
+gpu1622,Quadro NVS 130M,97
+gpu1623,Quadro NVS 135M,52
+gpu1624,Quadro NVS 140M,69
+gpu1625,Quadro NVS 150M,70
+gpu1626,Quadro NVS 160M,137
+gpu1628,Quadro NVS 210S,23
+gpu1629,Quadro NVS 210S / GeForce 6150LE,20
+gpu1631,Quadro NVS 280 PCI,8
+gpu1632,Quadro NVS 280 SD,2
+gpu1633,Quadro NVS 285,42
+gpu1634,Quadro NVS 285 128MB,38
+gpu1635,Quadro NVS 290,226
+gpu1636,Quadro NVS 295,79
+gpu1638,Quadro NVS 320M,208
+gpu1640,Quadro NVS 420,69
+gpu1641,Quadro NVS 440,37
+gpu1642,Quadro NVS 450,66
+gpu1643,Quadro NVS 510M,253
+gpu1644,Quadro NVS 55/280 PCI,6
+gpu3727,Quadro P1000,4438
+gpu3712,Quadro P2000,6921
+gpu3982,Quadro P2000 with Max-Q Design,5172
+gpu4133,Quadro P2200,9374
+gpu3688,Quadro P3000,6614
+gpu3942,Quadro P3200,9122
+gpu3963,Quadro P3200 with Max-Q Design,9113
+gpu3807,Quadro P400,1601
+gpu3719,Quadro P4000,11655
+gpu3829,Quadro P4000 with Max-Q Design,9082
+gpu3959,Quadro P4200,10445
+gpu3999,Quadro P4200 with Max-Q Design,11162
+gpu3911,Quadro P500,1602
+gpu3607,Quadro P5000,12305
+gpu4126,Quadro P520,2106
+gpu3888,Quadro P5200,12460
+gpu3996,Quadro P5200 with Max-Q Design,12608
+gpu3729,Quadro P600,3266
+gpu3597,Quadro P6000,14927
+gpu3954,Quadro P620,3603
+gpu4119,Quadro RTX 3000,11157
+gpu4152,Quadro RTX 3000 with Max-Q Design,8418
+gpu4053,Quadro RTX 4000,15480
+gpu4148,Quadro RTX 4000 (Mobile),12722
+gpu4161,Quadro RTX 4000 with Max-Q Design,12569
+gpu4040,Quadro RTX 5000,16038
+gpu4147,Quadro RTX 5000 (Mobile),14832
+gpu4144,Quadro RTX 5000 with Max-Q Design,13590
+gpu4015,Quadro RTX 6000,19135
+gpu4061,Quadro RTX 8000,19447
+gpu4124,Quadro T1000,6608
+gpu4295,Quadro T1000 with Max-Q Design,6684
+gpu4113,Quadro T2000,7176
+gpu4218,Quadro T2000 with Max-Q Design,6949
+gpu1647,Quadro2 MXR/EX,4
+gpu1648,Quadro2 Pro,1
+gpu1649,Quadro4 380 XGL,6
+gpu1657,Quadro4 900 XGL,4
+gpu1658,Quadro4 980 XGL,5
+gpu4363,Qualcomm Adreno 540 GPU,118
+gpu4368,Qualcomm Adreno 618 GPU,124
+gpu4034,Qualcomm Adreno 630 GPU,282
+gpu4561,Qualcomm Adreno 675 GPU,539
+gpu4344,Qualcomm Adreno 680 GPU,652
+gpu4563,Qualcomm Adreno 685 GPU,892
+gpu4499,Qualcomm Adreno 690 GPU,972
+gpu4960,Qualcomm Adreno 7c Gen 3 GPU,748
+gpu4838,Qualcomm Adreno 7c+ Gen 3,591
+gpu4518,Qualcomm Adreno 8cx Gen 3,1934
+gpu2946,QXL KMDOD,18
+gpu554,Radeon 2100,59
+gpu76,Radeon 3000,98
+gpu4713,Radeon 3015e,364
+gpu4684,Radeon 3020e,464
+gpu105,Radeon 3100,73
+gpu3797,Radeon 520,858
+gpu3818,Radeon 530,1009
+gpu3980,Radeon 535,1071
+gpu3810,Radeon 535DX,806
+gpu3803,Radeon 540,1354
+gpu4154,Radeon 540X,1402
+gpu4526,Radeon 550,1772
+gpu4137,Radeon 550X,1494
+gpu4759,Radeon 610M,1124
+gpu4773,Radeon 610M Ryzen 9 7845HX,21911
+gpu4760,Radeon 610M Ryzen 9 7945HX,1624
+gpu4208,Radeon 620,897
+gpu4190,Radeon 625,1090
+gpu4221,Radeon 630,1271
+gpu124,Radeon 6600M,518
+gpu3813,Radeon 6750M,911
+gpu4884,Radeon 680M Ryzen 7 7735HS,6179
+gpu1689,Radeon 7000 / Radeon VE,2
+gpu1690,RADEON 7000 / RADEON VE Family,3
+gpu1693,RADEON 7200,2
+gpu4926,Radeon 740M,3436
+gpu556,RADEON 7500,3
+gpu1695,RADEON 7500 Family,4
+gpu4902,Radeon 760M,5394
+gpu4818,Radeon 780M,7106
+gpu1697,RADEON 8500 Family,6
+gpu1699,RADEON 9000,4
+gpu1700,RADEON 9000 Family,3
+gpu1703,RADEON 9100 Family,6
+gpu557,RADEON 9100 IGP,5
+gpu558,RADEON 9200,3
+gpu1704,RADEON 9200 LE Family,2
+gpu1706,RADEON 9200 PRO Family,2
+gpu1707,RADEON 9200 SE,2
+gpu1710,RADEON 9250,2
+gpu1711,RADEON 9500,36
+gpu1713,RADEON 9500 PRO / 9700,41
+gpu559,RADEON 9550,34
+gpu560,Radeon 9550 / X1050,29
+gpu1716,RADEON 9600 Family,25
+gpu1717,RADEON 9600 PRO,42
+gpu1718,RADEON 9600 PRO Family,26
+gpu1722,RADEON 9600 TX Family,18
+gpu1723,RADEON 9600 XT,35
+gpu1724,RADEON 9600SE,27
+gpu1726,RADEON 9700 PRO,53
+gpu151,Radeon 9700 TX w/TV-Out,44
+gpu1729,RADEON 9800,57
+gpu1731,RADEON 9800 PRO,59
+gpu1732,RADEON 9800 SE,23
+gpu1734,RADEON 9800 XT,56
+gpu4187,RADEON A9800XT,22
+gpu4676,Radeon Athlon Gold 3150U,733
+gpu4573,Radeon Athlon Gold PRO 4150GE,1573
+gpu4735,Radeon Athlon PRO 3045B,555
+gpu4711,Radeon Athlon Silver 3050U,679
+gpu561,RADEON E2400,51
+gpu562,RADEON E4690,405
+gpu3364,Radeon E6460,323
+gpu3995,Radeon E6465,231
+gpu251,Radeon E6760,876
+gpu3150,Radeon E8860,1686
+gpu3831,Radeon E8870PCIe,3368
+gpu4281,Radeon Eng Sample: 100-000000085-40_35/24_Y,1440
+gpu4489,Radeon Eng Sample: 100-000000262-30_Y,2415
+gpu4633,Radeon Eng Sample: 100-000000285-40_Y,2365
+gpu4784,Radeon Eng Sample: 100-000000287-40_Y,1861
+gpu4572,Radeon Eng Sample: 100-000000300-40_Y,2670
+gpu4937,Radeon Eng Sample: 100-000000371-40_42/18_Y,2590
+gpu4963,Radeon Eng Sample: 100-000000560-40_Y,5294
+gpu566,Radeon HD 2350,76
+gpu567,Radeon HD 2400,120
+gpu568,Radeon HD 2400 PCI,14
+gpu569,Radeon HD 2400 Pro,114
+gpu571,Radeon HD 2400 XT,118
+gpu572,Radeon HD 2600 PRO,211
+gpu573,Radeon HD 2600 Pro AGP,110
+gpu574,Radeon HD 2600 XT,282
+gpu576,Radeon HD 2900 GT,292
+gpu577,Radeon HD 2900 PRO,627
+gpu578,Radeon HD 2900 XT,659
+gpu2964,Radeon HD 3000,95
+gpu46,Radeon HD 3200,82
+gpu580,Radeon HD 3300,126
+gpu581,Radeon HD 3450,158
+gpu583,Radeon HD 3470,118
+gpu585,Radeon HD 3650 AGP,150
+gpu586,Radeon HD 3670,156
+gpu587,Radeon HD 3850,396
+gpu44,Radeon HD 3850 AGP,432
+gpu588,Radeon HD 3850 X2,822
+gpu10,Radeon HD 3870,557
+gpu589,Radeon HD 3870 X2,708
+gpu25,Radeon HD 4200,111
+gpu590,Radeon HD 4250,122
+gpu591,Radeon HD 4270,109
+gpu592,Radeon HD 4290,140
+gpu2945,Radeon HD 4300/4500 Serisi,155
+gpu110,Radeon HD 4330,113
+gpu113,Radeon HD 4350,120
+gpu5,Radeon HD 4550,235
+gpu596,Radeon HD 4650,230
+gpu597,Radeon HD 4650 AGP,207
+gpu12,Radeon HD 4670,379
+gpu601,Radeon HD 4770,894
+gpu2829,Radeon HD 4810,769
+gpu57,Radeon HD 4830,835
+gpu24,Radeon HD 4850,936
+gpu602,Radeon HD 4850 X2,1132
+gpu30,Radeon HD 4870,1368
+gpu98,Radeon HD 4870 X2,1309
+gpu42,Radeon HD 4890,1514
+gpu7,Radeon HD 5450,136
+gpu3055,Radeon HD 5470,268
+gpu603,Radeon HD 5550,376
+gpu80,Radeon HD 5570,482
+gpu604,Radeon HD 5600/5700,646
+gpu28,Radeon HD 5670,798
+gpu50,Radeon HD 5750,1162
+gpu6,Radeon HD 5770,1344
+gpu69,Radeon HD 5830,1730
+gpu47,Radeon HD 5850,1982
+gpu48,Radeon HD 5870,2218
+gpu20,Radeon HD 5970,2307
+gpu2715,Radeon HD 6230,179
+gpu252,Radeon HD 6250,93
+gpu254,Radeon HD 6290,105
+gpu255,Radeon HD 6290M,140
+gpu256,Radeon HD 6300M,143
+gpu13,Radeon HD 6310,122
+gpu258,Radeon HD 6320,148
+gpu259,Radeon HD 6320 Graphic,216
+gpu260,Radeon HD 6320M,198
+gpu262,RADEON HD 6350,140
+gpu263,Radeon HD 6370D,254
+gpu264,Radeon HD 6370M,275
+gpu265,Radeon HD 6380G,200
+gpu266,Radeon HD 6410D,238
+gpu2416,Radeon HD 6430M,192
+gpu267,Radeon HD 6450,198
+gpu3724,Radeon HD 6450 + 8470D Dual,762
+gpu268,Radeon HD 6450A,260
+gpu107,Radeon HD 6470M,227
+gpu270,Radeon HD 6480G,260
+gpu3234,Radeon HD 6480M,353
+gpu271,Radeon HD 6490M,377
+gpu52,Radeon HD 6520G,298
+gpu109,Radeon HD 6530D,337
+gpu273,Radeon HD 6550A,707
+gpu274,Radeon HD 6550D,403
+gpu54,Radeon HD 6570,558
+gpu2285,Radeon HD 6610M,565
+gpu40,Radeon HD 6620G,351
+gpu277,Radeon HD 6630M,684
+gpu278,Radeon HD 6650A,835
+gpu279,Radeon HD 6650M,753
+gpu96,Radeon HD 6670,729
+gpu2357,Radeon HD 6670 + 6670 Dual,646
+gpu3178,Radeon HD 6670 + 7660D Dual,1492
+gpu3633,Radeon HD 6670/7670,945
+gpu280,Radeon HD 6700M,1016
+gpu282,Radeon HD 6750,1043
+gpu283,Radeon HD 6750M,937
+gpu284,Radeon HD 6770,1246
+gpu285,Radeon HD 6770M,964
+gpu286,Radeon HD 6790,1608
+gpu287,Radeon HD 6800M,798
+gpu45,Radeon HD 6850,1973
+gpu3684,Radeon HD 6850 X2,2534
+gpu22,Radeon HD 6870,2216
+gpu290,Radeon HD 6900M,1702
+gpu36,Radeon HD 6950,2628
+gpu84,Radeon HD 6970,2843
+gpu291,Radeon HD 6970M,2270
+gpu292,Radeon HD 6990,3013
+gpu2315,Radeon HD 7290,111
+gpu2958,Radeon HD 7290M,123
+gpu294,Radeon HD 7310,128
+gpu2922,Radeon HD 7310 - Carte graphique,174
+gpu2852,Radeon HD 7310G,180
+gpu2217,Radeon HD 7310M,166
+gpu295,Radeon HD 7340,153
+gpu2299,Radeon HD 7340G,196
+gpu2170,Radeon HD 7340M,221
+gpu296,Radeon HD 7350,165
+gpu2333,Radeon HD 7400G,267
+gpu2305,Radeon HD 7420G,308
+gpu297,Radeon HD 7450,223
+gpu331,Radeon HD 7450A,288
+gpu3039,Radeon HD 7450M,329
+gpu298,Radeon HD 7470,289
+gpu299,Radeon HD 7470M,407
+gpu2193,Radeon HD 7480D,281
+gpu300,Radeon HD 7500G,301
+gpu2660,Radeon HD 7500G + 7500M/7600M Dual,616
+gpu2491,Radeon HD 7500G + 7550M Dual,497
+gpu3379,Radeon HD 7500G + HD 7500M/7600M Dual,355
+gpu301,Radeon HD 7520G,315
+gpu3124,Radeon HD 7520G + 7400M Dual,486
+gpu2373,Radeon HD 7520G + 7470M Dual,542
+gpu2741,Radeon HD 7520G + 7500/7600 Dual,582
+gpu2236,Radeon HD 7520G + 7600M Dual,591
+gpu2624,Radeon HD 7520G + 7610M Dual,588
+gpu2689,Radeon HD 7520G + 7650M Dual,453
+gpu302,Radeon HD 7520G + 7670M Dual,523
+gpu2499,Radeon HD 7520G + 7700M Dual,1060
+gpu3014,Radeon HD 7520G + 8600/8700M Dual,311
+gpu3092,Radeon HD 7520G + 8750M Dual,376
+gpu3361,Radeon HD 7520G + HD 7400M Dual,544
+gpu3415,Radeon HD 7520G + HD 7500/7600 Dual,832
+gpu3021,Radeon HD 7520G + HD 7600M Dual,447
+gpu3413,Radeon HD 7520G + HD 7670M Dual,495
+gpu3609,Radeon HD 7520G + HD 7700M Dual,574
+gpu2970,Radeon HD 7520G + HD 8600/8700M Dual,623
+gpu3253,Radeon HD 7520G + HD 8750M Dual,651
+gpu2691,Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760,574
+gpu2748,Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D,364
+gpu2166,Radeon HD 7540D,330
+gpu2581,Radeon HD 7540D + 6570 Dual,719
+gpu3090,Radeon HD 7540D + 7500 Dual,821
+gpu2851,Radeon HD 7540D + HD 6450 Dual,643
+gpu303,Radeon HD 7550M,464
+gpu304,Radeon HD 7550M/7650M,728
+gpu305,Radeon HD 7560D,462
+gpu2362,Radeon HD 7560D + 6450 Dual,568
+gpu2221,Radeon HD 7560D + 6570 Dual,833
+gpu2303,Radeon HD 7560D + 6670 Dual,1130
+gpu2880,Radeon HD 7560D + 7560D Dual,982
+gpu2658,Radeon HD 7560D + 7570 Dual,985
+gpu306,Radeon HD 7560D + 7670 Dual,1426
+gpu2835,Radeon HD 7560D + 7700 Dual,1919
+gpu2858,Radeon HD 7560D + HD 6570 Dual,1237
+gpu2894,Radeon HD 7560D + HD 6670 Dual,1554
+gpu2891,Radeon HD 7560D + HD 7000 Dual,534
+gpu3739,Radeon HD 7560D + HD 7600 Dual,1258
+gpu2959,Radeon HD 7560D + HD 7670 Dual,1380
+gpu3158,Radeon HD 7560D + HD 7700 Dual,1346
+gpu2856,Radeon HD 7560D + HD 8570 Dual,935
+gpu3267,Radeon HD 7560D + R5 235 Dual,563
+gpu90,Radeon HD 7570,626
+gpu307,Radeon HD 7570M,428
+gpu3046,Radeon HD 7570M/HD 7670M,699
+gpu2533,Radeon HD 7580D,350
+gpu2290,Radeon HD 7600G,309
+gpu2598,Radeon HD 7600G + 6400M Dual,376
+gpu2501,Radeon HD 7600G + 7450M Dual,389
+gpu2508,Radeon HD 7600G + 7500M/7600M Dual,405
+gpu2855,Radeon HD 7600G + 7550M Dual,423
+gpu2746,Radeon HD 7600G + 8500M/8700M Dual,333
+gpu3321,Radeon HD 7600G + HD 7400M Dual,328
+gpu3230,Radeon HD 7600G + HD 7500M/7600M Dual,476
+gpu3098,Radeon HD 7600G + HD 7550M Dual,509
+gpu3180,Radeon HD 7600G + HD 8670M Dual,543
+gpu2780,Radeon HD 7600G + HD Dual,435
+gpu3629,Radeon HD 7600G N HD 7600G + HD ON HD Dual,526
+gpu2234,Radeon HD 7600M + 7600M Dual,773
+gpu308,Radeon HD 7610M,632
+gpu309,Radeon HD 7620G,359
+gpu2728,Radeon HD 7620G + 8600M Dual,508
+gpu2765,Radeon HD 7620G + 8670M Dual,577
+gpu3066,Radeon HD 7620G + HD 8600M Dual,442
+gpu2824,Radeon HD 7620G + HD 8670M Dual,507
+gpu2751,Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D,451
+gpu310,Radeon HD 7640G,458
+gpu2301,Radeon HD 7640G + 6400M Dual,526
+gpu2442,Radeon HD 7640G + 7400M Dual,637
+gpu2913,Radeon HD 7640G + 7450M Dual,754
+gpu311,Radeon HD 7640G + 7470M Dual,595
+gpu2566,Radeon HD 7640G + 7500/7600 Dual,627
+gpu2211,Radeon HD 7640G + 7500M/7600M Dual,775
+gpu312,Radeon HD 7640G + 7600M Dual,705
+gpu2677,Radeon HD 7640G + 7610M Dual,510
+gpu2786,Radeon HD 7640G + 7650M Dual,747
+gpu313,Radeon HD 7640G + 7670M Dual,644
+gpu2757,Radeon HD 7640G + 7690M Dual,945
+gpu2730,Radeon HD 7640G + 7700M Dual,690
+gpu2809,Radeon HD 7640G + 8500M Dual,585
+gpu2763,Radeon HD 7640G + 8570M Dual,558
+gpu2669,Radeon HD 7640G + 8600/8700M Dual,688
+gpu3873,Radeon HD 7640G + 8600M Dual,249
+gpu2797,Radeon HD 7640G + 8670M Dual,558
+gpu2733,Radeon HD 7640G + 8750M Dual,654
+gpu2978,Radeon HD 7640G + HD 7400M Dual,621
+gpu3329,Radeon HD 7640G + HD 7500/7600 Dual,423
+gpu2990,Radeon HD 7640G + HD 7600M Dual,704
+gpu2770,Radeon HD 7640G + HD 7600M N HD 7600M Dual,406
+gpu2925,Radeon HD 7640G + HD 7670M Dual,518
+gpu3372,Radeon HD 7640G + HD 7700M Dual,589
+gpu3211,Radeon HD 7640G + HD 7700M N HD 7700M Dual,630
+gpu2907,Radeon HD 7640G + HD 8500M Dual,607
+gpu2718,Radeon HD 7640G + HD 8500M N HD 8500M Dual,665
+gpu2889,Radeon HD 7640G + HD 8570M Dual,474
+gpu3131,Radeon HD 7640G + HD 8600/8700M Dual,586
+gpu3280,Radeon HD 7640G + HD 8670M Dual,677
+gpu3288,Radeon HD 7640G + HD 8750M Dual,996
+gpu3246,Radeon HD 7640G + R5 M200 Dual,559
+gpu2700,Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D,824
+gpu2735,Radeon HD 7640G N HD 7640G + HD 7670M Dual,679
+gpu2762,Radeon HD 7640G N HD 7640G + HD 8570M Dual,422
+gpu332,Radeon HD 7650A,572
+gpu314,Radeon HD 7650M,442
+gpu315,Radeon HD 7660D,502
+gpu2448,Radeon HD 7660D + 6570 Dual,1100
+gpu2249,Radeon HD 7660D + 6670 Dual,1238
+gpu2266,Radeon HD 7660D + 7470 Dual,465
+gpu2769,Radeon HD 7660D + 7500 Dual,1121
+gpu2450,Radeon HD 7660D + 7540D Dual,1204
+gpu2255,Radeon HD 7660D + 7670 Dual,1061
+gpu3091,Radeon HD 7660D + HD 6670 Dual,1484
+gpu2879,Radeon HD 7660D + HD 7000 Dual,633
+gpu3307,Radeon HD 7660D + HD 7400 Dual,339
+gpu3335,Radeon HD 7660D + HD 7700 Dual,1958
+gpu3687,Radeon HD 7660D + R5 235 Dual,523
+gpu3163,Radeon HD 7660D + R7 240 Dual,941
+gpu316,Radeon HD 7660G,475
+gpu2367,Radeon HD 7660G + 7400M Dual,588
+gpu317,Radeon HD 7660G + 7470M Dual,630
+gpu2233,Radeon HD 7660G + 7600M Dual,831
+gpu2335,Radeon HD 7660G + 7610M Dual,745
+gpu318,Radeon HD 7660G + 7670M Dual,743
+gpu2409,Radeon HD 7660G + 7700M Dual,757
+gpu2779,Radeon HD 7660G + 7730M Dual,931
+gpu2837,Radeon HD 7660G + 8600M Dual,445
+gpu2839,Radeon HD 7660G + 8670M Dual,587
+gpu2861,Radeon HD 7660G + HD 7500/7600 7500/7600 Dual,1002
+gpu3570,Radeon HD 7660G + HD 7500/7600 Dual,760
+gpu3488,Radeon HD 7660G + HD 7500M/7600M Dual,999
+gpu2864,Radeon HD 7660G + HD 7600M Dual,523
+gpu2901,Radeon HD 7660G + HD 7600M N HD 7600M Dual,460
+gpu2794,Radeon HD 7660G + HD 7670M Dual,706
+gpu2988,Radeon HD 7660G + HD 7700M Dual,777
+gpu3433,Radeon HD 7660G + HD 7730M Dual,881
+gpu2943,Radeon HD 7660G + HD 8500M Dual,758
+gpu3514,Radeon HD 7660G + HD 8600/8700M Dual,747
+gpu3507,Radeon HD 7660G + HD 8600M Dual,363
+gpu3390,Radeon HD 7660G + HD 8670M Dual,711
+gpu2726,Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D,722
+gpu2795,Radeon HD 7660G N HD 7660G + HD 7670M Dual,704
+gpu2750,Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D,966
+gpu319,Radeon HD 7670,820
+gpu333,Radeon HD 7670A,1050
+gpu320,Radeon HD 7670M,473
+gpu2277,Radeon HD 7670M + 7670M Dual,738
+gpu2294,Radeon HD 7690M,1003
+gpu3024,Radeon HD 7690M XT,1009
+gpu2317,Radeon HD 7700-serie,1899
+gpu3138,Radeon HD 7730,1208
+gpu2995,Radeon HD 7730M,749
+gpu321,Radeon HD 7750,1696
+gpu2476,Radeon HD 7750M,1191
+gpu322,Radeon HD 7770,2170
+gpu2502,Radeon HD 7790,3090
+gpu2967,Radeon HD 7800-serie,4029
+gpu323,Radeon HD 7850,3855
+gpu1688,Radeon HD 7850M,1372
+gpu324,Radeon HD 7870,4639
+gpu2557,Radeon HD 7870 XT,4469
+gpu2308,Radeon HD 7870M,1507
+gpu325,Radeon HD 7950 / R9 280,4764
+gpu51,Radeon HD 7970 / R9 280X,5247
+gpu326,Radeon HD 7970M,3846
+gpu2528,Radeon HD 7990,5565
+gpu2668,Radeon HD 8180,138
+gpu2575,Radeon HD 8210,186
+gpu3713,Radeon HD 8210E,193
+gpu2653,Radeon HD 8240,238
+gpu2541,Radeon HD 8250,217
+gpu2810,Radeon HD 8280,260
+gpu2799,Radeon HD 8280E,236
+gpu2512,Radeon HD 8280G,269
+gpu3279,Radeon HD 8310E,340
+gpu2627,Radeon HD 8330,258
+gpu2709,Radeon HD 8330E,266
+gpu2707,Radeon HD 8350,162
+gpu2580,Radeon HD 8350G,304
+gpu2712,Radeon HD 8370D,314
+gpu2582,Radeon HD 8400,261
+gpu2775,Radeon HD 8400E,268
+gpu2848,Radeon HD 8410G,435
+gpu2595,Radeon HD 8450G,364
+gpu2731,Radeon HD 8450G + 8600/8700M Dual,1070
+gpu2771,Radeon HD 8450G + 8600M Dual,545
+gpu2625,Radeon HD 8450G + 8670M Dual,474
+gpu2667,Radeon HD 8450G + 8750M Dual,637
+gpu3166,Radeon HD 8450G + HD 8600M Dual,452
+gpu3685,Radeon HD 8450G + HD 8670M Dual,574
+gpu3587,Radeon HD 8450G + HD 8750M Dual,503
+gpu3865,Radeon HD 8450G + R5 M230 Dual,578
+gpu2645,Radeon HD 8470,251
+gpu2565,Radeon HD 8470D,363
+gpu2648,Radeon HD 8470D + 6450 Dual,717
+gpu2844,Radeon HD 8470D + 6570 Dual,837
+gpu2939,Radeon HD 8470D + HD 6450 Dual,862
+gpu3776,Radeon HD 8470D + HD 6670 Dual,1435
+gpu3990,Radeon HD 8470D + HD 7500 Dual,1545
+gpu2841,Radeon HD 8490,263
+gpu3012,Radeon HD 8500M,411
+gpu3000,Radeon HD 8500M/8700M,852
+gpu2615,Radeon HD 8510G,365
+gpu2577,Radeon HD 8510G + 8500M Dual,596
+gpu3217,Radeon HD 8510G + HD 8500M Dual,629
+gpu2828,Radeon HD 8550D,566
+gpu2583,Radeon HD 8550G,409
+gpu3495,Radeon HD 8550G + 7600M Dual,901
+gpu2662,Radeon HD 8550G + 8500M Dual,602
+gpu2614,Radeon HD 8550G + 8570M Dual,532
+gpu2637,Radeon HD 8550G + 8600/8700M Dual,802
+gpu2628,Radeon HD 8550G + 8600M Dual,617
+gpu2610,Radeon HD 8550G + 8670M Dual,579
+gpu2743,Radeon HD 8550G + 8690M Dual,664
+gpu2639,Radeon HD 8550G + 8750M Dual,795
+gpu3247,Radeon HD 8550G + HD 7600M Dual,854
+gpu2924,Radeon HD 8550G + HD 8500M Dual,558
+gpu3451,Radeon HD 8550G + HD 8570M Dual,529
+gpu3283,Radeon HD 8550G + HD 8600/8700M Dual,654
+gpu3079,Radeon HD 8550G + HD 8600M Dual,593
+gpu3455,Radeon HD 8550G + HD 8670M Dual,546
+gpu3071,Radeon HD 8550G + HD 8750M Dual,819
+gpu3272,Radeon HD 8550G + R5 M200 Dual,619
+gpu2996,Radeon HD 8550G + R5 M230 Dual,487
+gpu3208,Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D,611
+gpu2620,Radeon HD 8570,961
+gpu2722,Radeon HD 8570 + 8670D Dual,620
+gpu2740,Radeon HD 8570 + HD 7660D Dual,949
+gpu2553,Radeon HD 8570D,439
+gpu2969,Radeon HD 8570D + 6570 Dual,1239
+gpu2961,Radeon HD 8570D + 6670 Dual,1039
+gpu2965,Radeon HD 8570D + HD 6570 Dual,868
+gpu2975,Radeon HD 8570D + HD 6670 Dual,1260
+gpu3222,Radeon HD 8570D + HD 7000 Dual,753
+gpu3084,Radeon HD 8570D + HD 7700 Dual,1834
+gpu3624,Radeon HD 8570D + HD 8470 Dual,338
+gpu3484,Radeon HD 8570D + HD 8570 Dual,1032
+gpu3406,Radeon HD 8570D + HD8490 Dual,374
+gpu3380,Radeon HD 8570D + R5 235 Dual,470
+gpu2869,Radeon HD 8570D + R7 200 Dual,999
+gpu3086,Radeon HD 8570D + R7 240 Dual,963
+gpu3009,Radeon HD 8570M,428
+gpu2998,Radeon HD 8600/8700M,1029
+gpu2568,Radeon HD 8610G,428
+gpu2585,Radeon HD 8610G + 8500M Dual,610
+gpu2723,Radeon HD 8610G + 8600M Dual,588
+gpu2778,Radeon HD 8610G + 8670M Dual,599
+gpu2929,Radeon HD 8610G + HD 8500M Dual,645
+gpu3075,Radeon HD 8610G + HD 8600M Dual,480
+gpu2773,Radeon HD 8610G + HD 8670M Dual,577
+gpu3530,Radeon HD 8610G + R5 M200 Dual,676
+gpu2882,Radeon HD 8650D,396
+gpu2530,Radeon HD 8650G,538
+gpu2721,Radeon HD 8650G + 7600M Dual,741
+gpu2609,Radeon HD 8650G + 7670M Dual,883
+gpu2578,Radeon HD 8650G + 7700M Dual,1126
+gpu2685,Radeon HD 8650G + 8500M Dual,626
+gpu2711,Radeon HD 8650G + 8570M Dual,654
+gpu2600,Radeon HD 8650G + 8600/8700M Dual,831
+gpu2696,Radeon HD 8650G + 8600M Dual,613
+gpu2630,Radeon HD 8650G + 8670M Dual,635
+gpu2602,Radeon HD 8650G + 8750M Dual,786
+gpu3165,Radeon HD 8650G + HD 7600M Dual,819
+gpu3582,Radeon HD 8650G + HD 7670M Dual,634
+gpu2955,Radeon HD 8650G + HD 8570M Dual,716
+gpu2836,Radeon HD 8650G + HD 8600/8700M Dual,763
+gpu2956,Radeon HD 8650G + HD 8600M Dual,606
+gpu2760,Radeon HD 8650G + HD 8600M N HD 8600M Dual,757
+gpu3381,Radeon HD 8650G + HD 8670M Dual,585
+gpu2876,Radeon HD 8650G + HD 8750M Dual,778
+gpu3031,Radeon HD 8650G + HD 8790M Dual,799
+gpu3235,Radeon HD 8650G + R5 M200 Dual,722
+gpu2895,Radeon HD 8650G + R5 M230 Dual,686
+gpu2936,Radeon HD 8650G N HD 8650G + HD 8570M Dual,773
+gpu2758,Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual,796
+gpu2755,Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D,679
+gpu2543,Radeon HD 8670D,532
+gpu2556,Radeon HD 8670D + 6670 Dual,1361
+gpu3852,Radeon HD 8670D + 7000 Dual,811
+gpu2572,Radeon HD 8670D + 7700 Dual,1788
+gpu2831,Radeon HD 8670D + 8570 Dual,974
+gpu2881,Radeon HD 8670D + HD 6670 Dual,1221
+gpu3157,Radeon HD 8670D + HD 7000 Dual,718
+gpu3835,Radeon HD 8670D + HD 7600 Dual,1317
+gpu3740,Radeon HD 8670D + HD 7700 Dual,1892
+gpu2984,Radeon HD 8670D + R5 235 Dual,836
+gpu3704,Radeon HD 8670D + R5 330 Dual,746
+gpu3093,Radeon HD 8670D + R7 200 Dual,949
+gpu3003,Radeon HD 8670D + R7 240 Dual,1020
+gpu2754,Radeon HD 8670D N HD 8670D + HD 8670D Dual,488
+gpu3002,Radeon HD 8670M,520
+gpu3026,Radeon HD 8690A,490
+gpu3141,Radeon HD 8690M,984
+gpu3020,Radeon HD 8730M,748
+gpu2909,Radeon HD 8750M,968
+gpu2993,Radeon HD 8790M,1305
+gpu3271,Radeon HD 8790M / R9 M290X,1210
+gpu3037,Radeon HD 8850M,973
+gpu3420,Radeon HD 8850M / R9 M265X,1139
+gpu2838,Radeon HD 8870M,1638
+gpu2926,Radeon HD 8870M / R9 M270X / M370X,1799
+gpu2927,Radeon HD 8950,2696
+gpu2865,Radeon HD 8970M,3876
+gpu2727,Radeon HD 8990,5214
+gpu3212,Radeon HD HD7850M,1651
+gpu605,Radeon HD4650,239
+gpu79,Radeon HD4670,365
+gpu327,RADEON HD6370D,320
+gpu328,RADEON HD6410D,422
+gpu329,RADEON HD6530D,531
+gpu2790,RADEON HD7450,199
+gpu3059,Radeon HD8530M,490
+gpu3023,Radeon HD8970M,3368
+gpu3277,Radeon HDG 4670,170
+gpu2618,RADEON IGP 320,3
+gpu607,Radeon IGP 320M,3
+gpu1739,Radeon IGP 340M,2
+gpu1741,RADEON IGP 345M,2
+gpu1742,RADEON IGP 34xM,1
+gpu1744,RADEON IGP 350M,6
+gpu3753,Radeon Infoshock 3000,106
+gpu4181,Radeon Instinct MI25 MxGPU,4978
+gpu3830,Radeon M535DX,749
+gpu4441,Radeon Pro,2324
+gpu3683,Radeon Pro 450,2722
+gpu4024,Radeon Pro 455,3112
+gpu3747,Radeon Pro 460,3452
+gpu4134,Radeon Pro 465,4537
+gpu4315,Radeon Pro 5300,7229
+gpu4172,Radeon Pro 5300M,6003
+gpu4264,Radeon Pro 5500 XT,8330
+gpu4165,Radeon Pro 5500M,6815
+gpu3763,Radeon Pro 555,3140
+gpu3820,Radeon Pro 560,3475
+gpu4225,Radeon Pro 5600M,9415
+gpu4021,Radeon Pro 560X,3677
+gpu4099,Radeon Pro 570,6336
+gpu4252,Radeon Pro 5700,11844
+gpu4250,Radeon Pro 5700 XT,12708
+gpu3933,Radeon Pro 580,7753
+gpu4138,Radeon Pro 580X,7540
+gpu3575,Radeon Pro Duo,8296
+gpu4656,Radeon PRO Ryzen 5 PRO 6650U,4066
+gpu4658,Radeon PRO Ryzen 7 PRO 6850U,5691
+gpu3985,Radeon Pro SSG,10971
+gpu4011,Radeon Pro V340 MxGPU,2853
+gpu4328,Radeon Pro V520 MxGPU,12257
+gpu4098,Radeon Pro Vega 16,4809
+gpu4016,Radeon Pro Vega 20,5299
+gpu4127,Radeon Pro Vega 48,11299
+gpu3912,Radeon Pro Vega 56,12353
+gpu3879,Radeon Pro Vega 64,12984
+gpu4189,Radeon Pro Vega II,15667
+gpu4306,Radeon Pro VII,15332
+gpu4192,Radeon Pro W5500,9133
+gpu4180,Radeon Pro W5500M,2010
+gpu4182,Radeon Pro W5700,15438
+gpu4530,Radeon PRO W6400,7945
+gpu4445,Radeon PRO W6600,16075
+gpu4609,Radeon PRO W6600X,13113
+gpu4411,Radeon PRO W6800,19978
+gpu4889,Radeon PRO W7600,17632
+gpu4836,Radeon PRO W7800,29139
+gpu4833,Radeon PRO W7900,29771
+gpu3794,Radeon Pro WX 2100,1820
+gpu3783,Radeon Pro WX 3100,2500
+gpu4065,Radeon Pro WX 3200,2421
+gpu3694,Radeon Pro WX 4100,3772
+gpu3798,Radeon Pro WX 4130,1928
+gpu3787,Radeon Pro WX 4150,2380
+gpu4169,Radeon Pro WX 4170,1409
+gpu3619,Radeon Pro WX 5100,5620
+gpu3611,Radeon Pro WX 7100,7893
+gpu4129,Radeon Pro WX 7130,6577
+gpu3976,Radeon Pro WX 8200,13931
+gpu3833,Radeon Pro WX 9100,12960
+gpu4019,Radeon Pro WX Vega M GL,4643
+gpu3701,Radeon R1E,301
+gpu2915,Radeon R2,240
+gpu2900,Radeon R2E,212
+gpu2914,Radeon R3,303
+gpu3118,Radeon R3E,205
+gpu2902,Radeon R4,333
+gpu3846,Radeon R4E,487
+gpu3123,Radeon R5 220,133
+gpu3885,Radeon R5 230,221
+gpu2826,Radeon R5 235,341
+gpu2871,Radeon R5 235 + HD 7560D Dual,743
+gpu3269,Radeon R5 235 + HD 8570D Dual,737
+gpu3080,Radeon R5 235X,277
+gpu2948,Radeon R5 240,531
+gpu3391,Radeon R5 310,331
+gpu3270,Radeon R5 330,512
+gpu3590,Radeon R5 340,984
+gpu3837,Radeon R5 420,574
+gpu3801,Radeon R5 430,937
+gpu3601,Radeon R5 435,840
+gpu3616,Radeon R5 A10-9600P 4C+6G,619
+gpu4291,"Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C",716
+gpu3793,Radeon R5 A10-9620P 4C+6G,731
+gpu4294,"Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",677
+gpu3785,Radeon R5 A10-9630P 4C+6G,977
+gpu4475,"Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C",825
+gpu3497,Radeon R5 A240,576
+gpu4075,Radeon R5 A6-7480,694
+gpu3984,Radeon R5 A6-8500P,586
+gpu4183,"Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G",605
+gpu3834,Radeon R5 A6-9500 2C+6G,853
+gpu4317,"Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G",925
+gpu3997,Radeon R5 A6-9500E 2C+4G,1014
+gpu4635,"Radeon R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4",726
+gpu3025,Radeon R5 M230,413
+gpu3060,Radeon R5 M240,424
+gpu3041,Radeon R5 M255,532
+gpu3487,Radeon R5 M315,473
+gpu3313,Radeon R5 M320,439
+gpu3207,Radeon R5 M330,595
+gpu3332,Radeon R5 M335,548
+gpu3585,Radeon R5 M420,500
+gpu3552,Radeon R5 M430,648
+gpu3956,Radeon R5 M435,801
+gpu3804,Radeon R5 Opteron X3216,394
+gpu3646,Radeon R5 PRO A10-8730B 4C+6G,695
+gpu4305,"Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G",631
+gpu3722,Radeon R5 PRO A6-8500B 2C+4G,508
+gpu4645,"Radeon R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G",472
+gpu3666,Radeon R5 PRO A6-8530B 2C+4G,689
+gpu3667,Radeon R5 PRO A6-8570 2C+6G,847
+gpu4377,"Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G",984
+gpu3649,Radeon R5 PRO A6-8570E 2C+4G,637
+gpu4339,"Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G",799
+gpu3668,Radeon R5 PRO A6-9500 2C+6G,1096
+gpu4412,"Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",832
+gpu3715,Radeon R5 PRO A6-9500B 2C+4G,693
+gpu4326,"Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G",408
+gpu3669,Radeon R5 PRO A6-9500E 2C+4G,770
+gpu3660,Radeon R5 PRO A8-9600B 4C+6G,658
+gpu4346,"Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G",562
+gpu2904,Radeon R5E,296
+gpu2899,Radeon R6,617
+gpu3156,Radeon R6 + R7 M265DX Dual,570
+gpu3615,Radeon R6 A10-8700P,532
+gpu4020,Radeon R6 A10-9600P 4C+6G,970
+gpu3689,Radeon R6 A8-8600P,474
+gpu3134,Radeon R6 M255DX,605
+gpu4067,Radeon R6 Opteron X3418,955
+gpu3626,Radeon R6 PRO A10-8700B 4C+6G,538
+gpu4280,"Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",540
+gpu3635,Radeon R6 PRO A8-8600B 4C+6G,531
+gpu4303,"Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G",590
+gpu3073,Radeon R7 + HD 7700 Dual,1962
+gpu3443,Radeon R7 + R5 330 Dual,1028
+gpu3756,Radeon R7 + R5 340 Dual,1234
+gpu3702,Radeon R7 + R5 435 Dual A10-9700 RADEON,885
+gpu3725,Radeon R7 + R5 Dual,897
+gpu3056,Radeon R7 + R7 200 Dual,1077
+gpu3200,Radeon R7 + R7 240 Dual,1045
+gpu3526,Radeon R7 + R7 250 Dual,1232
+gpu3618,Radeon R7 + R7 350 Dual,1982
+gpu3603,Radeon R7 +8G,1190
+gpu2713,Radeon R7 240,890
+gpu2949,Radeon R7 240 + HD 8570D Dual,917
+gpu2814,Radeon R7 240 + HD 8670D Dual,930
+gpu2768,Radeon R7 250,1083
+gpu3286,Radeon R7 250X,2268
+gpu2903,Radeon R7 260,2891
+gpu2701,Radeon R7 260X,3174
+gpu3543,Radeon R7 340,1027
+gpu3233,Radeon R7 360,3068
+gpu3471,Radeon R7 370,4513
+gpu3751,Radeon R7 430,1119
+gpu3588,Radeon R7 450,1939
+gpu4054,Radeon R7 7850A10-7850K,551
+gpu3617,Radeon R7 A10 Extreme Edition,816
+gpu3013,Radeon R7 A10 PRO-7800B,835
+gpu3032,Radeon R7 A10 PRO-7850B,882
+gpu3052,Radeon R7 A10-7700K,784
+gpu3029,Radeon R7 A10-7800,718
+gpu2972,Radeon R7 A10-7850K,980
+gpu3447,Radeon R7 A10-7860K,929
+gpu3220,Radeon R7 A10-7870K,1120
+gpu3468,Radeon R7 A10-7890K,850
+gpu3316,Radeon R7 A10-8750,843
+gpu3504,Radeon R7 A10-8850,773
+gpu3711,Radeon R7 A10-9700 RADEON,920
+gpu3877,Radeon R7 A10-9700E RADEON,1108
+gpu3614,Radeon R7 A12-9700P RADEON,740
+gpu3781,Radeon R7 A12-9720P RADEON,734
+gpu3777,Radeon R7 A12-9730P RADEON,1047
+gpu3680,Radeon R7 A12-9800 RADEON,1118
+gpu3816,Radeon R7 A12-9800E RADEON,913
+gpu3069,Radeon R7 A265,993
+gpu3248,Radeon R7 A360,619
+gpu3438,Radeon R7 A365,781
+gpu3482,Radeon R7 A370,1281
+gpu3048,Radeon R7 A8 PRO-7600B,666
+gpu3681,Radeon R7 A8-7500,907
+gpu3745,Radeon R7 A8-7500 4C+6G,853
+gpu3007,Radeon R7 A8-7600,784
+gpu3159,Radeon R7 A8-7650K,732
+gpu3302,Radeon R7 A8-7670K,848
+gpu4060,Radeon R7 A8-7680,821
+gpu3410,Radeon R7 A8-8650,912
+gpu3733,Radeon R7 A8-9600 RADEON,833
+gpu3631,Radeon R7 FX-8800P,840
+gpu3623,Radeon R7 FX-9800P RADEON,740
+gpu3632,Radeon R7 FX-9830P RADEON,1475
+gpu3254,Radeon R7 G,869
+gpu3030,Radeon R7 M260,493
+gpu3042,Radeon R7 M260DX,816
+gpu3149,Radeon R7 M260X,1008
+gpu2994,Radeon R7 M265,543
+gpu3057,Radeon R7 M265DX,498
+gpu3074,Radeon R7 M270,766
+gpu3376,Radeon R7 M340,662
+gpu3567,Radeon R7 M350,1085
+gpu3228,Radeon R7 M360,571
+gpu3493,Radeon R7 M365X,768
+gpu3416,Radeon R7 M370,1417
+gpu3620,Radeon R7 M380,1668
+gpu3562,Radeon R7 M440,898
+gpu3598,Radeon R7 M445,943
+gpu3551,Radeon R7 M460,1119
+gpu3671,Radeon R7 M465,1157
+gpu3760,Radeon R7 M465X,1623
+gpu3823,Radeon R7 Opteron X3421,1168
+gpu3362,Radeon R7 PRO A10-8750B,767
+gpu3664,Radeon R7 PRO A10-8770,899
+gpu3665,Radeon R7 PRO A10-8770E,826
+gpu3529,Radeon R7 PRO A10-8850B,945
+gpu3678,Radeon R7 PRO A10-9700,805
+gpu3882,Radeon R7 PRO A10-9700B,669
+gpu3679,Radeon R7 PRO A10-9700E,967
+gpu3622,Radeon R7 PRO A12-8800B,597
+gpu3819,Radeon R7 PRO A12-8830B,593
+gpu3657,Radeon R7 PRO A12-8870,904
+gpu3627,Radeon R7 PRO A12-8870E,946
+gpu3662,Radeon R7 PRO A12-9800,877
+gpu3645,Radeon R7 PRO A12-9800B,702
+gpu3663,Radeon R7 PRO A12-9800E,942
+gpu4072,Radeon R7 PRO A6-9500 2C+6G,781
+gpu3382,Radeon R7 PRO A8-8650B,728
+gpu3806,Radeon R7 PRO A8-8670E,1309
+gpu3613,Radeon R7 PRO A8-9600,873
+gpu3988,Radeon R7E,564
+gpu3238,Radeon R8 M365DX,590
+gpu3516,Radeon R8 M445DX,795
+gpu3814,Radeon R8 M535DX,670
+gpu2888,Radeon R9 255,1456
+gpu3496,Radeon R9 260,3181
+gpu3550,Radeon R9 270,4306
+gpu2766,Radeon R9 270 / R7 370,4259
+gpu2702,Radeon R9 270X,4907
+gpu3465,Radeon R9 280,5579
+gpu3466,Radeon R9 280X,6227
+gpu3116,Radeon R9 285 / 380,5549
+gpu4259,Radeon R9 290,8352
+gpu2719,Radeon R9 290 / 390,8150
+gpu4263,Radeon R9 290X,8659
+gpu2697,Radeon R9 290X / 390X,8389
+gpu2878,Radeon R9 295X2,8637
+gpu3589,Radeon R9 350,2018
+gpu3327,Radeon R9 360,3031
+gpu3469,Radeon R9 370,4722
+gpu3460,Radeon R9 380,6192
+gpu3266,Radeon R9 380X,6228
+gpu3464,Radeon R9 390,8982
+gpu3467,Radeon R9 390X,9440
+gpu3256,Radeon R9 Fury,9605
+gpu3245,Radeon R9 Fury + Fury X,9741
+gpu3634,Radeon R9 Fury X,10017
+gpu2999,Radeon R9 M265X,1126
+gpu3085,Radeon R9 M270X,1204
+gpu3010,Radeon R9 M275,1114
+gpu4329,Radeon R9 M275X,1537
+gpu3035,Radeon R9 M275X / M375,1574
+gpu3096,Radeon R9 M280X,813
+gpu2918,Radeon R9 M290X,3226
+gpu2985,Radeon R9 M295X,5150
+gpu3479,Radeon R9 M360,1837
+gpu3463,Radeon R9 M365X,1481
+gpu3299,Radeon R9 M370X,1529
+gpu3263,Radeon R9 M375,957
+gpu3337,Radeon R9 M375X,1720
+gpu3339,Radeon R9 M380,2770
+gpu3383,Radeon R9 M385,2060
+gpu3378,Radeon R9 M385X,1993
+gpu3405,Radeon R9 M390X,3346
+gpu3346,Radeon R9 M395,5023
+gpu3340,Radeon R9 M395X,5194
+gpu3606,Radeon R9 M470,2330
+gpu3574,Radeon R9 M470X,3244
+gpu3726,Radeon R9 M485X,3660
+gpu3557,Radeon RX 460,4112
+gpu3558,Radeon RX 470/570,8040
+gpu3533,Radeon RX 480,8649
+gpu4420,Radeon RX 5300,7661
+gpu4325,Radeon RX 5300M,4307
+gpu3854,Radeon RX 540,1878
+gpu3761,Radeon RX 550,2704
+gpu4164,Radeon RX 5500,8850
+gpu4174,Radeon RX 5500 XT,9178
+gpu4193,Radeon RX 5500M,5425
+gpu4069,Radeon RX 550X,2280
+gpu3708,Radeon RX 560,3645
+gpu4205,Radeon RX 5600,11507
+gpu4640,Radeon RX 5600 OEM,12229
+gpu4186,Radeon RX 5600 XT,13758
+gpu4217,Radeon RX 5600M,8372
+gpu3955,Radeon RX 560X,3194
+gpu4107,Radeon RX 5700,14586
+gpu4111,Radeon RX 5700 XT,16762
+gpu4114,Radeon RX 5700 XT 50th Anniversary,16617
+gpu4179,Radeon RX 570X,1923
+gpu3736,Radeon RX 580,8894
+gpu4049,Radeon RX 580 2048SP,7742
+gpu4055,Radeon RX 580X,7798
+gpu4025,Radeon RX 590,9487
+gpu4939,Radeon RX 6300,6544
+gpu4168,Radeon RX 640,1951
+gpu4536,Radeon RX 6400,7468
+gpu4843,Radeon RX 6500,7713
+gpu4488,Radeon RX 6500 XT,9487
+gpu4599,Radeon RX 6500M,7862
+gpu4941,Radeon RX 6550M,9668
+gpu4465,Radeon RX 6600,15125
+gpu4444,Radeon RX 6600 XT,16465
+gpu4449,Radeon RX 6600M,13608
+gpu4755,Radeon RX 6600S,14896
+gpu4541,Radeon RX 6650 XT,17419
+gpu4557,Radeon RX 6650M,13676
+gpu4564,Radeon RX 6700,18756
+gpu4369,Radeon RX 6700 XT,19871
+gpu4458,Radeon RX 6700M,13283
+gpu4510,Radeon RX 6700S,14901
+gpu4543,Radeon RX 6750 XT,20898
+gpu4314,Radeon RX 6800,22322
+gpu4312,Radeon RX 6800 XT,25102
+gpu4415,Radeon RX 6800M,13135
+gpu4542,Radeon RX 6800S,15535
+gpu4511,Radeon RX 6850M,12274
+gpu4574,Radeon RX 6850M XT,18329
+gpu4322,Radeon RX 6900 XT,26961
+gpu4540,Radeon RX 6950 XT,28484
+gpu4832,Radeon RX 7600,16114
+gpu4964,Radeon RX 7600M,3940
+gpu4844,Radeon RX 7600M XT,10438
+gpu4835,Radeon RX 7600S,13814
+gpu4919,Radeon RX 7700 XT,21614
+gpu4887,Radeon RX 7700S,15028
+gpu4917,Radeon RX 7800 XT,23839
+gpu4906,Radeon RX 7900 GRE,24853
+gpu4646,Radeon RX 7900 XT,28858
+gpu4644,Radeon RX 7900 XTX,31003
+gpu4946,Radeon RX 7900M,22760
+gpu4066,Radeon RX Vega 10,1646
+gpu4669,Radeon RX Vega 10 Ryzen 7 3700U,1517
+gpu4672,Radeon RX Vega 10 Ryzen 7 3750H,1826
+gpu4747,Radeon RX Vega 10 Ryzen 7 PRO 3700U w/,1585
+gpu3893,Radeon RX Vega 11,2119
+gpu4131,Radeon RX Vega 11 PRD,2401
+gpu4338,Radeon RX Vega 11 Processor,1828
+gpu4745,Radeon RX Vega 11 Ryzen 5 3350G,1572
+gpu4671,Radeon RX Vega 11 Ryzen 5 3400G,2162
+gpu4754,Radeon RX Vega 11 Ryzen 5 3400GE,2056
+gpu3821,Radeon RX Vega 56,13388
+gpu3808,Radeon RX Vega 64,14475
+gpu4012,Radeon RX Vega 8,1487
+gpu3915,Radeon RX Vega M GH,6580
+gpu3903,Radeon RX Vega M GL,3606
+gpu4157,Radeon RX Vega11,1605
+gpu4965,Radeon RX Vega11 Ryzen 7 3750H,1714
+gpu4730,Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition,1356
+gpu4290,Radeon RX590 GME,8538
+gpu4688,Radeon Ryzen 3 3250U,807
+gpu4654,Radeon Ryzen 3 5300U,1577
+gpu4698,Radeon Ryzen 3 5425U,1597
+gpu4816,Radeon Ryzen 3 7330U,1723
+gpu4811,Radeon Ryzen 3 PRO 4355GE,1431
+gpu4517,Radeon Ryzen 3 PRO 5450U,1781
+gpu4779,Radeon Ryzen 3 PRO 7330U,2126
+gpu4686,Radeon Ryzen 5 3450U,1056
+gpu4494,Radeon Ryzen 5 4600GE with Radeon Graphics,1792
+gpu4660,Radeon Ryzen 5 5500U,2124
+gpu4555,Radeon Ryzen 5 5560U,2007
+gpu4744,Radeon Ryzen 5 5600GE,2519
+gpu4459,Radeon Ryzen 5 5600H,2418
+gpu4453,Radeon Ryzen 5 5600U,2091
+gpu4666,Radeon Ryzen 5 5625U,2167
+gpu4674,Radeon Ryzen 5 6600H,4014
+gpu4681,Radeon Ryzen 5 6600HS Creator Edition,3851
+gpu4675,Radeon Ryzen 5 6600U,3565
+gpu4728,Radeon Ryzen 5 7530U,2239
+gpu4808,Radeon Ryzen 5 7535HS,4155
+gpu4837,Radeon Ryzen 5 7535U,3833
+gpu4714,Radeon Ryzen 5 7600 6-Core,1988
+gpu4647,Radeon Ryzen 5 7600X 6-Core,1732
+gpu4382,Radeon Ryzen 5 Microsoft Surface Edition,2091
+gpu4815,Radeon Ryzen 5 PRO 4655G,2375
+gpu4904,Radeon Ryzen 5 PRO 4655GE,2361
+gpu4485,Radeon Ryzen 5 PRO 5650G,2296
+gpu4463,Radeon Ryzen 5 PRO 5650GE,2287
+gpu4743,Radeon Ryzen 5 PRO 5675U,1810
+gpu4677,Radeon Ryzen 5 PRO 6650U,3674
+gpu4670,Radeon Ryzen 7 3700U,1433
+gpu4357,Radeon Ryzen 7 4700G,2595
+gpu4387,Radeon Ryzen 7 4700GE,2610
+gpu4349,Radeon Ryzen 7 4700U,2052
+gpu4348,Radeon Ryzen 7 4800H,3758
+gpu4362,Radeon Ryzen 7 4800HS,4393
+gpu4356,Radeon Ryzen 7 4800U,2300
+gpu4650,Radeon Ryzen 7 5700U,2289
+gpu4452,Radeon Ryzen 7 5800H,2772
+gpu4462,Radeon Ryzen 7 5800HS,2687
+gpu4464,Radeon Ryzen 7 5800U,2404
+gpu4668,Radeon Ryzen 7 5825U,2395
+gpu4657,Radeon Ryzen 7 6800H,5432
+gpu4661,Radeon Ryzen 7 6800HS,6566
+gpu4697,Radeon Ryzen 7 6800HS Creator Edition,5385
+gpu4648,Radeon Ryzen 7 6800U,4546
+gpu4717,Radeon Ryzen 7 7700 8-Core,1722
+gpu4651,Radeon Ryzen 7 7700X 8-Core,2324
+gpu4771,Radeon Ryzen 7 7730U,2499
+gpu4764,Radeon Ryzen 7 7735H,5609
+gpu4692,Radeon Ryzen 7 7735HS,5378
+gpu4803,Radeon Ryzen 7 7735U,5183
+gpu4722,Radeon Ryzen 7 7736U,5790
+gpu4790,Radeon Ryzen 7 7800X3D 8-Core,1738
+gpu4386,Radeon Ryzen 7 Microsoft Surface Edition,2277
+gpu4347,Radeon Ryzen 7 PRO 4750G,2601
+gpu4371,Radeon Ryzen 7 PRO 4750GE,2294
+gpu4354,Radeon Ryzen 7 PRO 4750U,2047
+gpu4725,Radeon Ryzen 7 PRO 5875U,1967
+gpu4685,Radeon Ryzen 7 PRO 6850H,5756
+gpu4691,Radeon Ryzen 7 PRO 6850HS,5212
+gpu4662,Radeon Ryzen 7 PRO 6850U,5173
+gpu4708,Radeon Ryzen 7 PRO 6860Z,4636
+gpu4778,Radeon Ryzen 7 PRO 7730U,2516
+gpu4825,Radeon Ryzen 7 PRO 7745 8-Core,1486
+gpu4361,Radeon Ryzen 9 4900H,2561
+gpu4359,Radeon Ryzen 9 4900HS,7418
+gpu4680,Radeon Ryzen 9 6900HS,7515
+gpu4653,Radeon Ryzen 9 6900HX,5293
+gpu4716,Radeon Ryzen 9 7900 12-Core,2711
+gpu4659,Radeon Ryzen 9 7900X 12-Core,3094
+gpu4652,Radeon Ryzen 9 7950X 16-Core,5304
+gpu4761,Radeon Ryzen 9 7950X3D 16-Core,1646
+gpu4729,Radeon Ryzen 9 PRO 6950HS,4558
+gpu4826,Radeon Ryzen 9 PRO 7945 12-Core,1731
+gpu4901,Radeon Ryzen Embedded R2514,1482
+gpu4907,Radeon Ryzen Embedded R2544,1864
+gpu4544,Radeon Ryzen Embedded V2516,1527
+gpu4375,Radeon Ryzen Embedded V2718,1998
+gpu4389,Radeon Ryzen Embedded V2748,1842
+gpu4071,Radeon Sky 500,4763
+gpu3473,Radeon TM R9 A360,2105
+gpu1751,Radeon VE,2
+gpu4074,Radeon Vega 10,1568
+gpu3857,Radeon Vega 10 Mobile,1481
+gpu4727,Radeon Vega 10 Ryzen 7 PRO 3700U w/,1621
+gpu4136,Radeon Vega 11,1821
+gpu4770,Radeon Vega 11 Ryzen 5 PRO 3350G,2023
+gpu4724,Radeon Vega 11 Ryzen 5 PRO 3400G,1960
+gpu4703,Radeon Vega 11 Ryzen 5 PRO 3400GE w/,1854
+gpu4260,Radeon Vega 2,506
+gpu3926,Radeon Vega 3,891
+gpu4690,Radeon Vega 3 3020e,604
+gpu4700,Radeon Vega 3 Athlon 3000G,1019
+gpu4664,Radeon Vega 3 Athlon 300GE,1044
+gpu4734,Radeon Vega 3 Athlon 300U,891
+gpu4812,Radeon Vega 3 Athlon 320GE,714
+gpu4694,Radeon Vega 3 Athlon Gold 3150U,594
+gpu4701,Radeon Vega 3 Athlon Silver 3050e,552
+gpu4707,Radeon Vega 3 Athlon Silver 3050U,855
+gpu3871,Radeon Vega 3 Mobile,1025
+gpu4693,Radeon Vega 3 Ryzen 3 3200U,843
+gpu4696,Radeon Vega 3 Ryzen 3 3250U,823
+gpu4777,Radeon Vega 3 Ryzen Embedded R1305G,358
+gpu4687,Radeon Vega 3 Ryzen Embedded R1505G,771
+gpu3937,Radeon Vega 6,1309
+gpu4746,Radeon Vega 6 Ryzen 3 3300U,1301
+gpu4678,Radeon Vega 6 Ryzen 3 3350U,1526
+gpu4715,Radeon Vega 6 Ryzen 3 PRO 3300U w/,1403
+gpu3895,Radeon Vega 8,1585
+gpu3845,Radeon Vega 8 Mobile,1414
+gpu4673,Radeon Vega 8 Ryzen 3 3200G,1938
+gpu4753,Radeon Vega 8 Ryzen 3 PRO 3200G,1741
+gpu4842,Radeon Vega 8 Ryzen 3 PRO 3200GE w/,1622
+gpu4709,Radeon Vega 8 Ryzen 5 3450U,1236
+gpu4667,Radeon Vega 8 Ryzen 5 3500U,1397
+gpu4663,Radeon Vega 8 Ryzen 5 3550H,1661
+gpu4695,Radeon Vega 8 Ryzen 5 PRO 3500U w/,1405
+gpu4156,Radeon Vega 9,1581
+gpu4805,Radeon Vega 9 Ryzen 5 3550H,1287
+gpu4742,Radeon Vega 9 Ryzen 5 Microsoft Surface Edition,1491
+gpu3775,Radeon Vega Frontier Edition,13388
+gpu4050,Radeon VII,16736
+gpu609,Radeon X1050,49
+gpu610,Radeon X1200,32
+gpu611,Radeon X1250,37
+gpu612,Radeon X1270,31
+gpu154,Radeon X1300,58
+gpu159,Radeon X1300 PRO,84
+gpu613,Radeon X1550,66
+gpu1752,Radeon X1550 64-bit,47
+gpu1753,Radeon X1600,49
+gpu2494,Radeon X1600 Pro,98
+gpu1755,Radeon X1600 Pro / X1300XT,69
+gpu2493,Radeon X1600 XT,115
+gpu1756,Radeon X1650 GTO,74
+gpu614,Radeon X1650 Pro,84
+gpu1757,Radeon X1650 SE,71
+gpu2206,Radeon X1700 Targa Edition,116
+gpu1760,Radeon X1800 GTO,140
+gpu1761,Radeon X1900 CrossFire Edition,137
+gpu1762,Radeon X1900 GT,145
+gpu1763,Radeon X1950 CrossFire Edition,151
+gpu615,Radeon X1950 GT,106
+gpu1764,Radeon X1950 Pro,112
+gpu1765,RADEON X300SE,38
+gpu1766,RADEON X550,50
+gpu1767,RADEON X550XT,56
+gpu1768,Radeon X550XTX,70
+gpu1769,RADEON X600 256MB HyperMemory,56
+gpu161,RADEON X600 PRO,67
+gpu155,RADEON X600 SE,49
+gpu1772,RADEON X600XT,91
+gpu1773,RADEON X700,72
+gpu1774,RADEON X700 PRO,75
+gpu1775,RADEON X700 SE,71
+gpu618,RADEON X800 GT,84
+gpu1777,RADEON X800 GTO,114
+gpu1778,RADEON X800 PRO,64
+gpu1779,RADEON X800 PRO/GTO,73
+gpu1780,RADEON X800 SE,129
+gpu619,RADEON X800 XL,69
+gpu81,RADEON X800 XT,97
+gpu1781,RADEON X800 XT Platinum Edition,81
+gpu1782,RADEON X800GT,79
+gpu620,RADEON X850 PRO,72
+gpu1784,RADEON X850 XT,81
+gpu621,RADEON X850 XT Platinum Edition,81
+gpu622,Radeon Xpress 1100,34
+gpu624,Radeon Xpress 1150,29
+gpu625,Radeon Xpress 1200,35
+gpu104,Radeon Xpress 1250,42
+gpu626,Radeon Xpress 1270,26
+gpu2830,Radeon Xpress 1300,52
+gpu1785,Radeon Xpress 1300M,40
+gpu627,RADEON XPRESS 200,29
+gpu2875,RADEON XPRESS 200 CROSSFIRE,18
+gpu628,RADEON XPRESS 200M,22
+gpu4775,RadeonT 610M,1225
+gpu4897,RadeonT 780M,6958
+gpu4849,RadeonT RX 6850M XT,13847
+gpu1788,Rage 128 Pro,1
+gpu1790,RAGE 128 PRO AGP 4X TMDS,1
+gpu1797,Rage Fury Pro/Xpert 2000 Pro,3
+gpu3314,Red Hat QXL controller,31
+gpu3577,RGH Drivers v3,11
+gpu1665,RIVA TNT2 Model 64/Model 64 Pro,3
+gpu1667,RIVA TNT2/TNT2 Pro,3
+gpu4785,RTX 2000 Ada Generation Laptop GPU,15608
+gpu4930,RTX 3000 Ada Generation Laptop GPU,18569
+gpu4800,RTX 3500 Ada Generation Laptop GPU,20864
+gpu4942,RTX 4000 Ada Generation,25226
+gpu4819,RTX 4000 Ada Generation Laptop GPU,23870
+gpu4801,RTX 4000 SFF Ada Generation,20529
+gpu4958,RTX 4500 Ada Generation,22292
+gpu4935,RTX 5000 Ada Generation,17923
+gpu4807,RTX 5000 Ada Generation Laptop GPU,23535
+gpu4768,RTX 6000 Ada Generation,23103
+gpu4804,RTX A1000 6GB Laptop GPU,10005
+gpu4558,RTX A1000 Laptop GPU,9547
+gpu4477,RTX A2000,13777
+gpu4533,RTX A2000 12GB,13645
+gpu4553,RTX A2000 8GB Laptop GPU,10940
+gpu4438,RTX A2000 Laptop GPU,10015
+gpu4503,RTX A3000 12GB Laptop GPU,14532
+gpu4414,RTX A3000 Laptop GPU,12506
+gpu4394,RTX A4000,19330
+gpu4421,RTX A4000 Laptop GPU,15531
+gpu4514,RTX A4500,21775
+gpu4565,RTX A4500 Laptop GPU,17603
+gpu4649,RTX A500 Laptop GPU,6992
+gpu4390,RTX A5000,22984
+gpu4416,RTX A5000 Laptop GPU,15894
+gpu4539,RTX A5500,21030
+gpu4562,RTX A5500 Laptop GPU,17581
+gpu4337,RTX A6000,22912
+gpu1820,RV530 PRO,118
+gpu4246,Ryzen 3 4300G with Radeon Graphics,2040
+gpu4302,Ryzen 3 4300GE with Radeon Graphics,2257
+gpu4232,Ryzen 3 4300U with Radeon Graphics,1348
+gpu4436,Ryzen 3 5300G with Radeon Graphics,1940
+gpu4434,Ryzen 3 5300GE with Radeon Graphics,2004
+gpu4508,Ryzen 3 5300U with Radeon Graphics,1545
+gpu4402,Ryzen 3 5400U with Radeon Graphics,1625
+gpu4867,Ryzen 3 5425U with Radeon Graphics,1677
+gpu4875,Ryzen 3 7330U with Radeon Graphics,1758
+gpu4309,Ryzen 3 PRO 4200GE with Radeon Graphics,1748
+gpu4240,Ryzen 3 PRO 4300U with Radeon Graphics,1542
+gpu4230,Ryzen 3 Pro 4350G with Radeon Graphics,2163
+gpu4244,Ryzen 3 PRO 4350GE with Radeon Graphics,1888
+gpu4247,Ryzen 3 PRO 4450U with Radeon Graphics,1541
+gpu4429,Ryzen 3 PRO 5350G with Radeon Graphics,2331
+gpu4430,Ryzen 3 PRO 5350GE with Radeon Graphics,2238
+gpu4437,Ryzen 3 PRO 5450U with Radeon Graphics,1601
+gpu4872,Ryzen 3 PRO 5475U with Radeon Graphics,1431
+gpu4877,Ryzen 3 PRO 7330U with Radeon Graphics,1984
+gpu3930,Ryzen 5 2500U with Radeon Vega,1503
+gpu4235,Ryzen 5 4500U with Radeon Graphics,1817
+gpu4245,Ryzen 5 4600G with Radeon Graphics,2365
+gpu4255,Ryzen 5 4600H with Radeon Graphics,2255
+gpu4277,Ryzen 5 4600HS with Radeon Graphics,8370
+gpu4237,Ryzen 5 4600U with Radeon Graphics,1887
+gpu4506,Ryzen 5 5500U with Radeon Graphics,2008
+gpu4578,Ryzen 5 5560U with Radeon Graphics,2114
+gpu4406,Ryzen 5 5600G with Radeon Graphics,2579
+gpu4435,Ryzen 5 5600GE with Radeon Graphics,2601
+gpu4426,Ryzen 5 5600H with Radeon Graphics,2410
+gpu4404,Ryzen 5 5600U with Radeon Graphics,2181
+gpu4868,Ryzen 5 5625U with Radeon Graphics,1990
+gpu4628,Ryzen 5 6600HS Creator Edition,3685
+gpu4589,Ryzen 5 6600U with Radeon Graphics,3233
+gpu4874,Ryzen 5 7530U with Radeon Graphics,2355
+gpu4865,Ryzen 5 7535U with Radeon Graphics,3529
+gpu4254,Ryzen 5 PRO 4400G with Radeon Graphics,2305
+gpu4308,Ryzen 5 PRO 4400GE with Radeon Graphics,1441
+gpu4239,Ryzen 5 PRO 4500U with Radeon Graphics,2007
+gpu4229,Ryzen 5 Pro 4650G with Radeon Graphics,2414
+gpu4289,Ryzen 5 PRO 4650GE with Radeon Graphics,2101
+gpu4242,Ryzen 5 PRO 4650U with Radeon Graphics,1721
+gpu4428,Ryzen 5 PRO 5650G with Radeon Graphics,2500
+gpu4431,Ryzen 5 PRO 5650GE with Radeon Graphics,2458
+gpu4407,Ryzen 5 PRO 5650U with Radeon Graphics,2054
+gpu4871,Ryzen 5 PRO 5675U with Radeon Graphics,1732
+gpu4638,Ryzen 5 PRO 6650U,3519
+gpu4581,Ryzen 5 PRO 6650U with Radeon Graphics,3575
+gpu4878,Ryzen 5 PRO 7530U with Radeon Graphics,2227
+gpu3925,Ryzen 7 2700U with Radeon Vega,1617
+gpu4307,Ryzen 7 4700G with Radeon Graphics,2186
+gpu4292,Ryzen 7 4700GE with Radeon Graphics,2496
+gpu4234,Ryzen 7 4700U with Radeon Graphics,2034
+gpu4233,Ryzen 7 4800H with Radeon Graphics,2113
+gpu4236,Ryzen 7 4800U with Radeon Graphics,2343
+gpu4405,Ryzen 7 5700G with Radeon Graphics,2806
+gpu4433,Ryzen 7 5700GE with Radeon Graphics,2656
+gpu4507,Ryzen 7 5700U with Radeon Graphics,2247
+gpu4398,Ryzen 7 5800H with Radeon Graphics,2747
+gpu4401,Ryzen 7 5800HS with Radeon Graphics,3213
+gpu4399,Ryzen 7 5800U with Radeon Graphics,2358
+gpu4869,Ryzen 7 5825U with Radeon Graphics,2318
+gpu4611,Ryzen 7 6800H,5247
+gpu4584,Ryzen 7 6800H with Radeon Graphics,4921
+gpu4629,Ryzen 7 6800HS,5237
+gpu4590,Ryzen 7 6800HS Creator Edition,5345
+gpu4582,Ryzen 7 6800HS with Radeon Graphics,6867
+gpu4625,Ryzen 7 6800U,5006
+gpu4588,Ryzen 7 6800U with Radeon Graphics,4844
+gpu4876,Ryzen 7 7730U with Radeon Graphics,2399
+gpu4864,Ryzen 7 7735HS with Radeon Graphics,5306
+gpu4243,Ryzen 7 Extreme Edition,2226
+gpu4231,Ryzen 7 Pro 4750G with Radeon Graphics,2681
+gpu4288,Ryzen 7 PRO 4750GE with Radeon Graphics,2549
+gpu4238,Ryzen 7 PRO 4750U with Radeon Graphics,2029
+gpu4427,Ryzen 7 PRO 5750G with Radeon Graphics,2420
+gpu4432,Ryzen 7 PRO 5750GE with Radeon Graphics,2546
+gpu4403,Ryzen 7 PRO 5850U with Radeon Graphics,2266
+gpu4870,Ryzen 7 PRO 5875U with Radeon Graphics,2067
+gpu4585,Ryzen 7 PRO 6850HS with Radeon Graphics,3736
+gpu4626,Ryzen 7 PRO 6850U,5580
+gpu4579,Ryzen 7 PRO 6850U with Radeon Graphics,5042
+gpu4630,Ryzen 7 PRO 6860Z,5076
+gpu4587,Ryzen 7 PRO 6860Z with Radeon Graphics,4788
+gpu4873,Ryzen 7 PRO 7730U with Radeon Graphics,2634
+gpu4397,Ryzen 9 5900HS with Radeon Graphics,5570
+gpu4396,Ryzen 9 5900HX with Radeon Graphics,2901
+gpu4623,Ryzen 9 6900HS,8005
+gpu4583,Ryzen 9 6900HS with Radeon Graphics,6331
+gpu4624,Ryzen 9 6900HX,5415
+gpu4607,Ryzen 9 6900HX with Radeon Graphics,4679
+gpu4636,Ryzen 9 PRO 6950H,5758
+gpu4586,Ryzen 9 PRO 6950HS with Radeon Graphics,5067
+gpu4423,S3 5400EW,146
+gpu1828,S3 Chrome 430 ULP,39
+gpu1831,S3 Chrome S25 DDR2,18
+gpu4535,S3 Chrome S27 DDR3,33
+gpu1832,S3 Inc. Savage4,3
+gpu1835,S3 ProSavageDDR,1
+gpu1840,S3 SuperSavage/IXC 1014,1
+gpu1853,SAPPHIRE RADEON 9000 ATLANTIS PRO,5
+gpu1859,SAPPHIRE RADEON 9600 ATLANTIS,47
+gpu1864,SAPPHIRE Radeon X1550,61
+gpu1874,Sapphire RADEON X800 GT,112
+gpu2720,Seria Mobility Radeon HD 3400,124
+gpu3262,Seria Radeon HD 7700,1603
+gpu1919,SUMO 9640,650
+gpu1920,SUMO 9644,465
+gpu1922,SUMO 964A,497
+gpu4576,Surface Duo Adreno 640 GPU,592
+gpu4442,T1000,7662
+gpu4513,T1000 8GB,7619
+gpu4422,T1200 Laptop GPU,7818
+gpu4446,T400,3625
+gpu4512,T400 4GB,3692
+gpu4335,T500,3708
+gpu4520,T550 Laptop GPU,4822
+gpu4439,T600,6457
+gpu4424,T600 Laptop GPU,7100
+gpu4077,TENSOR 1.0 Driver Intel HD 630,1299
+gpu1669,Tesla C2050,3175
+gpu2515,Tesla C2050 / C2070,3428
+gpu1670,Tesla C2070,2839
+gpu1671,Tesla C2075,3016
+gpu4496,Tesla K20m,4330
+gpu4498,Tesla K20Xm,2917
+gpu4545,Tesla K40c,4494
+gpu4476,Tesla K40m,3281
+gpu4448,Tesla K80,6210
+gpu4095,Tesla M10,3490
+gpu2800,Tesla M2070-Q,1305
+gpu4395,Tesla M40,10182
+gpu4450,Tesla M40 24GB,10474
+gpu3875,Tesla M6,7509
+gpu3774,Tesla M60,7770
+gpu4039,Tesla P100-PCIE-16GB,7225
+gpu4631,Tesla P4,8718
+gpu4548,Tesla P40,11395
+gpu4222,Tesla T10,12650
+gpu4211,Tesla T4,10762
+gpu4226,Tesla V100-PCIE-16GB,12983
+gpu4029,TITAN RTX,19948
+gpu3859,TITAN V,19783
+gpu4005,TITAN V CEO Edition,16987
+gpu3863,TITAN Xp COLLECTORS EDITION,19355
+gpu3578,TRINITY DEVASTATOR MOBILE,699
+gpu3505,TRINITY SCRAPPER MOBILE,498
+gpu3421,V9560XT,6
+gpu1674,Vanta/Vanta LT,3
+gpu1949,VIA Chrome9 HC IGP,4
+gpu1950,VIA Chrome9 HC IGP Family,3
+gpu1951,VIA Chrome9 HC IGP Family WDDM,3
+gpu1952,VIA Chrome9 HC IGP Prerelease WDDM 1.1,2
+gpu1953,VIA Chrome9 HC IGP WDDM,2
+gpu1954,VIA Chrome9 HC IGP WDDM 1.1,3
+gpu1955,VIA Chrome9 HC3 IGP,2
+gpu1957,VIA Chrome9 HCM IGP,1
+gpu1960,VIA Chrome9 HD IGP,9
+gpu4155,VIA/S3G C-645/640 GPU,132
+gpu1962,VIA/S3G Chrome 645/640 GPU,109
+gpu1965,VIA/S3G DeltaChrome IGP,3
+gpu1968,VIA/S3G KM400/KN400,4
+gpu1970,VIA/S3G UniChrome IGP,4
+gpu1971,VIA/S3G UniChrome Pro IGP,4
+gpu1973,VIA/S3G UniChromeII,5
+gpu1977,VisionTek Radeon 7000,1
+gpu2821,WinFast A250 LE,4
+gpu2098,Xabre,5
+gpu2101,XGI Volari Family v1.13.23.D_V,4
+gpu3697,ZX Chrome 645/640 GPU,147
