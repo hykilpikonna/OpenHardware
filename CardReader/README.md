@@ -24,7 +24,8 @@
 ```ini
 [aime]
 enable = 1
-felicaPath = C:\MUGS\felica.txt  # 这里改成一个固定的 Felica.txt 路径, 所有游戏共享
+aimeGen = 0
+felicaPath = C:\MUGS\felica.txt  ; 这里改成一个固定的 Felica.txt 路径, 所有游戏共享
 felicaGen = 0
 scan = 0x6B
 ```
