@@ -8,3 +8,4 @@
 * [TaikoStick](./TaikoStick/) 一对可以在任何表面上打太鼓达人的鼓槌 🥁
 * [CardReader](./CardReader/) 一个为 SEGA/Bemani 街机音游设计的读卡器固件 💳
 * [PCData](./PCData/) 用来选购最佳性价比笔记本的爬虫脚本和数据集 💻
+* [IO4](./IO4/) SEGA 街机 io4 控制板的替代品（施工中 🚧）
