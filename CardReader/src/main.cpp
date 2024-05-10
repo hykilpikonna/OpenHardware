@@ -89,8 +89,10 @@ void foundCard(const u8* uid, const u8 len, const char* cardType)
 
     USBSerial.printf("\nFound a %s card!\n", cardType);
     USBSerial.print("UID Value: ");
-    for (u8 i = 0; i < len; i++)
+    for (u8 i = 0; i < len; i++) {
+        if (uid[i] < 0x10) USBSerial.print("0");
         USBSerial.print(uid[i], HEX);
+    }
     USBSerial.println("");
 
     led_animation();
