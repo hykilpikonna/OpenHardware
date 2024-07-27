@@ -53,7 +53,7 @@ void setup()
 
     // Set the max number of retry attempts to read from a card
     // This prevents us from waiting forever for a card, which is the default behaviour of the PN532.
-    nfc.setPassiveActivationRetries(0xFF);
+    nfc.setPassiveActivationRetries(1);
     nfc.SAMConfig();
 
     // Clear the IDm buffer
@@ -111,13 +111,13 @@ void loop()
     // When one is found, some basic information such as IDm, PMm, and System Code are retrieved.
     leds[0] = CRGB::BlueViolet;
     FastLED.show();
-    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode, 5) == 1)
+    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode) == 1)
         foundCard(idm, UID_LENGTH, "FeliCa");
 
     // Wait for an ISO14443A type cards (MIFARE, etc.).  When one is found
     u8 uidLength;
     leds[0] = CRGB::OrangeRed;
     FastLED.show();
-    if (nfc.readPassiveTargetID(PN532_MIFARE_ISO14443A, idm, &uidLength, 5) == 1)
+    if (nfc.readPassiveTargetID(PN532_MIFARE_ISO14443A, idm, &uidLength) == 1)
         foundCard(idm, uidLength, "ISO14443A");
 }
