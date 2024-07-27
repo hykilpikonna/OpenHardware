@@ -2,17 +2,28 @@
 
 #include <Wire.h>
 #include <PN532_I2C.h>
+#include <PN532_SPI.h>
 #include <PN532.h>
 #include <FastLED.h>
 #include <types.h>
+
+#define PN532_MODE_I2C 1
+#define PN532_MODE_SPI 2
+#define PN532_MODE PN532_MODE_I2C
 
 constexpr u8 NUM_LEDS = 7;
 constexpr u8 BR_DIM = 8;
 constexpr u8 BR_BRIGHT = 14;
 CRGB leds[NUM_LEDS];
 
-PN532_I2C pn532i2c(Wire);
-PN532 nfc(pn532i2c);
+#if PN532_MODE == PN532_MODE_SPI
+PN532_SPI pn532(SPI, GPIO_NUM_36, GPIO_NUM_37, GPIO_NUM_35, GPIO_NUM_34);
+#elif PN532_MODE == PN532_MODE_I2C
+PN532_I2C pn532(Wire);
+#else
+#error Invalid PN532 mode
+#endif
+PN532 nfc(pn532);
 
 constexpr u8 UID_LENGTH = 8;
 u8 prevIDm[UID_LENGTH];
@@ -27,8 +38,10 @@ void setup()
     USBSerial.begin(115200);
     USBSerial.println("Hello!");
 
+#if PN532_MODE == PN532_MODE_I2C
     // Initialize I2C communication
     Wire.setPins(GPIO_NUM_4, GPIO_NUM_5);
+#endif
 
     // Initialize the LED
     CFastLED::addLeds<NEOPIXEL, GPIO_NUM_6>(leds, NUM_LEDS);
