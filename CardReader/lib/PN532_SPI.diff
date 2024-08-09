@@ -1,0 +1,29 @@
+diff PN532/PN532_SPI/PN532_SPI.cpp lib/PN532_SPI/PN532_SPI.cpp
+10c10
+< PN532_SPI::PN532_SPI(SPIClass &spi, uint8_t ss)
+---
+> PN532_SPI::PN532_SPI(SPIClass &spi, uint8_t sck, uint8_t miso, uint8_t mosi, uint8_t ss)
+14c14,17
+<     _ss  = ss;
+---
+>     _sck = sck;
+>     _miso = miso;
+>     _mosi = mosi;
+>     _ss = ss;
+21c24
+<     _spi->begin();
+---
+>     _spi->begin(_sck, _miso, _mosi, _ss);
+diff PN532/PN532_SPI/PN532_SPI.h lib/PN532_SPI/PN532_SPI.h
+10c10
+<     PN532_SPI(SPIClass &spi, uint8_t ss);
+---
+>     PN532_SPI(SPIClass &spi, uint8_t sck, uint8_t miso, uint8_t mosi, uint8_t ss);
+19a20,22
+>     uint8_t   _sck;
+>     uint8_t   _miso;
+>     uint8_t   _mosi;
+23c26
+<     boolean isReady();
+---
+>     bool isReady();

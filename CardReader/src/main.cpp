@@ -2,17 +2,28 @@
 
 #include <Wire.h>
 #include <PN532_I2C.h>
+#include <PN532_SPI.h>
 #include <PN532.h>
 #include <FastLED.h>
 #include <types.h>
+
+#define PN532_MODE_I2C 1
+#define PN532_MODE_SPI 2
+#define PN532_MODE PN532_MODE_I2C
 
 constexpr u8 NUM_LEDS = 7;
 constexpr u8 BR_DIM = 8;
 constexpr u8 BR_BRIGHT = 14;
 CRGB leds[NUM_LEDS];
 
-PN532_I2C pn532i2c(Wire);
-PN532 nfc(pn532i2c);
+#if PN532_MODE == PN532_MODE_SPI
+PN532_SPI pn532(SPI, GPIO_NUM_36, GPIO_NUM_37, GPIO_NUM_35, GPIO_NUM_34);
+#elif PN532_MODE == PN532_MODE_I2C
+PN532_I2C pn532(Wire);
+#else
+#error Invalid PN532 mode
+#endif
+PN532 nfc(pn532);
 
 constexpr u8 UID_LENGTH = 8;
 u8 prevIDm[UID_LENGTH];
@@ -27,8 +38,10 @@ void setup()
     USBSerial.begin(115200);
     USBSerial.println("Hello!");
 
+#if PN532_MODE == PN532_MODE_I2C
     // Initialize I2C communication
     Wire.setPins(GPIO_NUM_4, GPIO_NUM_5);
+#endif
 
     // Initialize the LED
     CFastLED::addLeds<NEOPIXEL, GPIO_NUM_6>(leds, NUM_LEDS);
@@ -53,7 +66,7 @@ void setup()
 
     // Set the max number of retry attempts to read from a card
     // This prevents us from waiting forever for a card, which is the default behaviour of the PN532.
-    nfc.setPassiveActivationRetries(0xFF);
+    nfc.setPassiveActivationRetries(1);
     nfc.SAMConfig();
 
     // Clear the IDm buffer
@@ -111,13 +124,13 @@ void loop()
     // When one is found, some basic information such as IDm, PMm, and System Code are retrieved.
     leds[0] = CRGB::BlueViolet;
     FastLED.show();
-    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode, 5) == 1)
+    if (nfc.felica_Polling(0xFFFF, 0x00, idm, pmm, &systemCode) == 1)
         foundCard(idm, UID_LENGTH, "FeliCa");
 
     // Wait for an ISO14443A type cards (MIFARE, etc.).  When one is found
     u8 uidLength;
     leds[0] = CRGB::OrangeRed;
     FastLED.show();
-    if (nfc.readPassiveTargetID(PN532_MIFARE_ISO14443A, idm, &uidLength, 5) == 1)
+    if (nfc.readPassiveTargetID(PN532_MIFARE_ISO14443A, idm, &uidLength) == 1)
         foundCard(idm, uidLength, "ISO14443A");
 }
