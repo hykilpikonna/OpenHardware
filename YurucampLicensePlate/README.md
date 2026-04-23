@@ -8,6 +8,8 @@
 
 <img width="200" src="./docs/cc.png" alt="License" />
 
+![preview](./docs/preview.png)
+
 <p align="center">
   <img src="./docs/demo.jpg" width="48%" />
   <img src="./docs/demo2.jpg" width="48%" />
