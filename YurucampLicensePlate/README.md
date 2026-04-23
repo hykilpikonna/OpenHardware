@@ -11,7 +11,7 @@
 ![Demo](./docs/demo.jpg)
 ![Demo2](./docs/demo2.jpg)
 
-（车牌号使用 AI 打码）
+（车牌号使用了 AI 打码，实际上我的车牌并不是 MEOWMEOW）
 
 ## 文件列表
 
