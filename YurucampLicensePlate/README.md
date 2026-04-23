@@ -8,8 +8,10 @@
 
 <img width="200" src="./docs/cc.png" alt="License" />
 
-![Demo](./docs/demo.jpg)
-![Demo2](./docs/demo2.jpg)
+<p align="center">
+  <img src="./docs/demo.jpg" width="48%" />
+  <img src="./docs/demo2.jpg" width="48%" />
+</p>
 
 （车牌号使用了 AI 打码，实际上我的车牌并不是 MEOWMEOW）
 
