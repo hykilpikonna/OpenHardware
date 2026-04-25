@@ -22,6 +22,7 @@
 - `design.af` : Affinity 矢量设计源文件（可编辑）
 - `production.af` : Affinity 矢量生产用源文件（不可编辑，但是包含生产需要的层信息）
 - `production.pdf` : 提交给工厂的生产用 PDF 文件
+- `*-baiku.*` : 摩托车版本
 
 ## 呜谢
 
